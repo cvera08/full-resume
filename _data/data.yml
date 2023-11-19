@@ -23,6 +23,33 @@ profile:
   order: 1
   title: PROFESSIONAL SUMMARY
   description: |
-    High-performing QA Automation activities with a passion for technology. 
-    12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication. 
+    High-performing QA Automation activities with a passion for technology.  
+    12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication.  
+    
     Confident in ability to collaborate with cross-functional teams to solve complex, high-stakes problems. Committed to continuous improvement and contributing to team success. 
+
+profile:
+  show: true
+  order: 2
+  title: About Me
+  description: |
+    QA Automation with more than a decade of hands-on experience in software development.
+    System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
+    Language Testing System).
+    Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
+    As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
+    Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
+    have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
+    Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
+    Some of my professional skills are Teamwork, Proactivity andLeadership.
+
+    Front-end Sites:
+    Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
+    Invoice Generator - https://cvera08.github.io/FactureroUruguayo
+    CVera Portfolio - https://cvera-portfolio.vercel.app
+
+    Back-end Project:
+    Climate Change - https://climate-change-api-demo.vercel.app
+    <More Github Projects are available at https://github.com/cvera08>
+
+    Additional information: www.linkedin.com/in/carlos-vera-automation-qa
