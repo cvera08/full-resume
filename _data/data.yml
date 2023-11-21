@@ -28,7 +28,7 @@ profile:
     
     Confident in ability to collaborate with cross-functional teams to solve complex, high-stakes problems. Committed to continuous improvement and contributing to team success. 
 
-about:
+profiles:
   show: true
   order: 2
   title: About Me
@@ -53,3 +53,6 @@ about:
     <More Github Projects are available at https://github.com/cvera08>
 
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
+
+footer:
+  display: false
