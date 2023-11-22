@@ -21,7 +21,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: PROFESSIONAL SUMMARY
+  title: PROFESSIONAL SUMMARY.
   description: |
     High-performing QA Automation activities with a passion for technology.  
     12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication.  
@@ -56,3 +56,5 @@ profiles:
 
 footer:
   display: false
+
+close: <strong>Sorry, my resume has been hidden.</strong>
