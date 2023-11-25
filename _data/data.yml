@@ -36,53 +36,44 @@ evaluation:
     QA Automation with more than a decade of hands-on experience in software development.
     System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
+
+
     Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
     have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
+
+
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
     Some of my professional skills are Teamwork, Proactivity andLeadership.
+
 
     Front-end Sites:
     Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
     Invoice Generator - https://cvera08.github.io/FactureroUruguayo
     CVera Portfolio - https://cvera-portfolio.vercel.app
 
+
     Back-end Project:
     Climate Change - https://climate-change-api-demo.vercel.app
+    
     <More Github Projects are available at https://github.com/cvera08>
+
 
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
 
-experience:
+interest:
   show: true
   order: 3
-  title: Experiences
+  title: Areas of Interests
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
+    I am interested in technical roles, such as 100% Automation QA or QA Technical Lead areas (Automation Architect).
 
-  items:
-    - company: Second Company
-      link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+    Currently, my specific areas of interest are:Cybersecurity, Blockchain developments, Backend Automation,
+    and Frontend with Cypress/JS, Playwright/TS.
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+    My main motivation is client satisfaction and quality delivery.When you work with me, you will get 100%
+    satisfaction guaranteed in my work and my process.
 
 footer:
   display: false
