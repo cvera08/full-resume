@@ -36,30 +36,30 @@ evaluation:
     QA Automation with more than a decade of hands-on experience in software development.
     System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
-
+    </br>
 
     Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
     have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
-
+    </br>
 
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
-    Some of my professional skills are Teamwork, Proactivity andLeadership.
-
+    Some of my professional skills are Teamwork, Proactivity and Leadership.
+    </br>
 
     Front-end Sites:
     Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
     Invoice Generator - https://cvera08.github.io/FactureroUruguayo
     CVera Portfolio - https://cvera-portfolio.vercel.app
-
+    </br>
 
     Back-end Project:
     Climate Change - https://climate-change-api-demo.vercel.app
     
     <More Github Projects are available at https://github.com/cvera08>
 
-
+    </br>
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
 
 interest:
@@ -74,6 +74,23 @@ interest:
 
     My main motivation is client satisfaction and quality delivery.When you work with me, you will get 100%
     satisfaction guaranteed in my work and my process.
+
+
+award:
+  show: true
+  order: 4
+  title: KEY ACHIEVEMENTS
+  description: |
+    - Reduced development time to market
+    - Increased product quality
+    - Reduced time spent on repetitive tasks
+    - Faster feedback loop
+    - Reduced tester burnout
+    - Increased time available for exploratory testing
+    - Better data for decision making and reporting
+    - Increased tester productivity (spent less time running manual test cases and regression cycles)
+    - Runs on key areas
+    - Increased number of tests run for broader test coverage
 
 footer:
   display: false
