@@ -23,7 +23,7 @@ profile:
   order: 1
   title: PROFESSIONAL SUMMARY.-
   description: |
-    High-performing QA Automation activities with a passion for technology.  
+    High-performing **QA Automation** activities with a passion for technology.  
     12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication.  
     
     Confident in ability to collaborate with cross-functional teams to solve complex, high-stakes problems. Committed to continuous improvement and contributing to team success. 
@@ -36,17 +36,16 @@ evaluation:
     QA Automation with more than a decade of hands-on experience in software development.
     System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
-    </br>
+    </br><!-- pagebreak -->
 
     Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
-    have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
-    </br>
+    have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).\
 
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
     Some of my professional skills are Teamwork, Proactivity and Leadership.
-    </br>
+    <!-- pagebreak -->
 
     Front-end Sites:
     Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
@@ -61,6 +60,7 @@ evaluation:
 
     </br>
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
+
 
 interest:
   show: true
@@ -91,6 +91,19 @@ award:
     - Increased tester productivity (spent less time running manual test cases and regression cycles)
     - Runs on key areas
     - Increased number of tests run for broader test coverage
+
+
+skill:
+  show: true
+  order: 5
+  title: PROFESSIONAL SKILLS
+  description: |
+    Leadership Skills:
+    - Motivation, Risk Management, Delegation, Reporting, Negotiation.
+    -- ^Roles: QA Lead, Automation Lead, Automation Architect.
+
+    Soft Skills:
+    - Positive Attitude, Communication, Problem-solving, Attention to Detail, Continuous Learning.
 
 footer:
   display: false
