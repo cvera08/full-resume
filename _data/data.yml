@@ -36,29 +36,30 @@ evaluation:
     QA Automation with more than a decade of hands-on experience in software development.
     System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
-    </br><!-- pagebreak -->
+    <!-- pagebreak -->
+    <!-- pagebreak -->
 
     Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
-    have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).\
+    have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
+
+    # Insert an empty line here
 
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
     Some of my professional skills are Teamwork, Proactivity and Leadership.
-    <!-- pagebreak -->
 
     Front-end Sites:
     Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
     Invoice Generator - https://cvera08.github.io/FactureroUruguayo
     CVera Portfolio - https://cvera-portfolio.vercel.app
-    </br>
+
 
     Back-end Project:
     Climate Change - https://climate-change-api-demo.vercel.app
     
     <More Github Projects are available at https://github.com/cvera08>
 
-    </br>
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
 
 
@@ -104,6 +105,25 @@ skill:
 
     Soft Skills:
     - Positive Attitude, Communication, Problem-solving, Attention to Detail, Continuous Learning.
+
+
+reference:
+  show: true
+  order: 6
+  title: References
+  description: |
+    -Help to identify scenarios for inclusion in test automation.
+    -Collaborate with project managers, the QA team, and developers on project -and application- level test automation.
+    -Promote test automation best practices, tools, standards, and processes.
+    -Design, develop, implement, and support frameworks for the client test infrastructure and provide automation expertise to the development team.
+    -Document, evaluate, and disseminate test results, and collaborate in troubleshooting issues.
+    -Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).
+    -Provide test automation estimates and timelines for assigned projects.
+    -Communicate and report on the status of test automation activities.
+    -Contribute to performance and scalability automation testing through coding best practices.
+    -Create and maintain data sets to be used in test automation activities. 
+    -Coordinate and manage automated testing efforts for single or concurrent projects.
+    -Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.
 
 footer:
   display: false
