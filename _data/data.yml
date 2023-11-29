@@ -21,7 +21,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: PROFESSIONAL SUMMARY.-
+  title: PROFESSIONAL SUMMARY
   description: |
     High-performing **QA Automation** activities with a passion for technology.  
     12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication.  
@@ -44,7 +44,7 @@ evaluation:
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
     have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
 
-    # Insert an empty line here
+    # 
 
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
     Some of my professional skills are Teamwork, Proactivity and Leadership.
@@ -101,7 +101,7 @@ skill:
   description: |
     Leadership Skills:
     - Motivation, Risk Management, Delegation, Reporting, Negotiation.
-    -- ^Roles: QA Lead, Automation Lead, Automation Architect.
+      - ^Roles: QA Lead, Automation Lead, Automation Architect.
 
     Soft Skills:
     - Positive Attitude, Communication, Problem-solving, Attention to Detail, Continuous Learning.
@@ -110,20 +110,40 @@ skill:
 reference:
   show: true
   order: 6
-  title: References
+  title: MAIN RESPONSIBILITIES
   description: |
-    -Help to identify scenarios for inclusion in test automation.
-    -Collaborate with project managers, the QA team, and developers on project -and application- level test automation.
-    -Promote test automation best practices, tools, standards, and processes.
-    -Design, develop, implement, and support frameworks for the client test infrastructure and provide automation expertise to the development team.
-    -Document, evaluate, and disseminate test results, and collaborate in troubleshooting issues.
-    -Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).
-    -Provide test automation estimates and timelines for assigned projects.
-    -Communicate and report on the status of test automation activities.
-    -Contribute to performance and scalability automation testing through coding best practices.
-    -Create and maintain data sets to be used in test automation activities. 
-    -Coordinate and manage automated testing efforts for single or concurrent projects.
-    -Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.
+    - Help to identify scenarios for inclusion in test automation.  
+    - Collaborate with project managers, the QA team, and developers on project -and application- level test automation.  
+    - Promote test automation best practices, tools, standards, and processes.  
+    - Design, develop, implement, and support frameworks for the client test infrastructure and provide automation expertise to the development team.  
+    - Document, evaluate, and disseminate test results, and collaborate in troubleshooting issues.  
+    - Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).  
+    - Provide test automation estimates and timelines for assigned projects.  
+    - Communicate and report on the status of test automation activities.  
+    - Contribute to performance and scalability automation testing through coding best practices.  
+    - Create and maintain data sets to be used in test automation activities.  
+    - Coordinate and manage automated testing efforts for single or concurrent projects.
+    - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.
+
+
+experience:
+  show: true
+  order: 7
+  title: WORK EXPERIENCE
+  description: |
+
+  items:
+    - company: Blackpoint - [Cybersecurity]
+      link:
+      tags: 
+      date: Apr 2023 - Present
+      role: DevOps Automation Specialist
+      location: Ellicott City, Maryland, U.S.
+      description: |
+        - Designed & Built the Playwright Automation Framework according to the cybersec needs.
+        - Prioritized technical debt. Increased the ratio of test cases that were automated.
+        - Implemented Conventional Commits & CI/CD by using GitHub Actions.
+        - Set up for contract testing with Pact.
 
 footer:
   display: false
