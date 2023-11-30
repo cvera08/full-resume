@@ -33,8 +33,8 @@ evaluation:
   order: 2
   title: About Me
   description: |
-    QA Automation with more than a decade of hands-on experience in software development.
-    System Engineer, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
+    QA **Automation** with more than a decade of hands-on experience in software development.
+    **System Engineer**, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
     <!-- pagebreak -->
     <!-- pagebreak -->
@@ -68,10 +68,10 @@ interest:
   order: 3
   title: Areas of Interests
   description: |
-    I am interested in technical roles, such as 100% Automation QA or QA Technical Lead areas (Automation Architect).
+    I am interested in technical **roles**, such as 100% **Automation** QA or QA **Technical** Lead areas (**Automation** Architect).
 
-    Currently, my specific areas of interest are:Cybersecurity, Blockchain developments, Backend Automation,
-    and Frontend with Cypress/JS, Playwright/TS.
+    Currently, my specific **areas** of interest are: **Cybersecurity, Blockchain** developments, **Backend** Automation,
+    and Frontend with **Cypress/JS**, **Playwright/TS**.
 
     My main motivation is client satisfaction and quality delivery.When you work with me, you will get 100%
     satisfaction guaranteed in my work and my process.
@@ -140,10 +140,57 @@ experience:
       role: DevOps Automation Specialist
       location: Ellicott City, Maryland, U.S.
       description: |
-        - Designed & Built the Playwright Automation Framework according to the cybersec needs.
+        - Designed & **Built** the Playwright Automation **Framework** according to the cybersec needs.
         - Prioritized technical debt. Increased the ratio of test cases that were automated.
-        - Implemented Conventional Commits & CI/CD by using GitHub Actions.
+        - Implemented Conventional Commits & CI/CD by using **GitHub Actions**.
         - Set up for contract testing with Pact.
+
+  items:
+    - company: Socure - [Identity Verification & Fraud Prevention]
+      link:
+      tags: 
+      date: Jul 2019 - May 2023
+      role: SDET (iOS - Native Mobile)
+      location: Ellicott City, Maryland, U.S.
+      description: |
+        - Tested the 'face & ID recognition' app using Xcode simulators.
+        - Linked Xcode IDE with real mobile devices (iPhone, iPad) to automate the **iOS app**.
+        - Performed Code & Pair Reviews.
+        - Established **Jenkins job for automation** builds.
+
+
+project:
+  show: true
+  order: 8
+  title: PERSONAL PROJECTS
+  description: |
+    Carlos Vera's Portfolio (Jul 2022-Present)
+    Front-end dev - Piriapolis, Maldonado, Uruguay
+    Developed my own **portfolio** as an online summary of my resume/profile
+    Live Demo - https://cvera-portfolio.vercel.app
+    View GitHub Source - https://github.com/cvera08/CVeraPortfolio
+    __________________________________________
+    Blockchain QAAutomation (Jan 2023-Present)
+    Automation Architect - Piriapolis, Maldonado, Uruguay
+    Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress
+    Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts
+    Live Demo - http://bitly.ws/Apc4
+    View GitHub Source - https://github.com/cvera08/blockchain-automation
+    __________________________________________
+    Climate Change - Climate Crisis (May 2022-Dec 2022)
+    Back-end dev - Atlantida, Canelones, Uruguay
+    Generated live URLs related to science and the environment all around the globe by using **REST APIs**
+    Live Demo - https://climate-change-api-demo.vercel.app
+    View GitHub Source - https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios
+    __________________________________________
+    Uruguayan biller (Jul 2021-May 2022)
+    Front-end dev - Piriapolis, Maldonado, Uruguay
+    Built & Tested the FacturaUY website to support the creation of new **invoices**
+    Live Demo - https://cvera08.github.io/FactureroUruguayo
+    (only available in the Spanish version since it is focused on the Uruguayan market)
+
+
+
 
 footer:
   display: false
