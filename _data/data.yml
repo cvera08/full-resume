@@ -82,16 +82,16 @@ award:
   order: 4
   title: KEY ACHIEVEMENTS
   description: |
-    - Reduced development time to market
-    - Increased product quality
-    - Reduced time spent on repetitive tasks
-    - Faster feedback loop
-    - Reduced tester burnout
-    - Increased time available for exploratory testing
-    - Better data for decision making and reporting
-    - Increased tester productivity (spent less time running manual test cases and regression cycles)
-    - Runs on key areas
-    - Increased number of tests run for broader test coverage
+    - Reduced development time to market.
+    - Increased product quality.
+    - Reduced time spent on repetitive tasks.
+    - Faster feedback loop.
+    - Reduced tester burnout.
+    - Increased time available for exploratory testing.
+    - Better data for decision making and reporting.
+    - Increased tester productivity (spent less time running manual test cases and regression cycles).
+    - Runs on key areas.
+    - Increased number of tests run for broader test coverage.
 
 
 skill:
@@ -151,12 +151,25 @@ experience:
       tags: 
       date: Jul 2019 - May 2023
       role: SDET (iOS - Native Mobile)
-      location: Ellicott City, Maryland, U.S.
+      location: Florida City, Florida, U.S.
       description: |
         - Tested the 'face & ID recognition' app using Xcode simulators.
         - Linked Xcode IDE with real mobile devices (iPhone, iPad) to automate the **iOS app**.
         - Performed Code & Pair Reviews.
         - Established **Jenkins job for automation** builds.
+
+  items:
+    - company: Renault & Nissan - [Automobile Manufacturer]
+      link:
+      tags: 
+      date: Oct 2015 - Jul 2019
+      role: QA Technical Lead (of Manual, Hybrid &amp; Automation)
+      location: London, England, U.K.
+      description: |
+        - Contacted clients, Synced with other managers, Generated metrics & reports.
+        - Settled internal **hiring process** of the company, Interviewed candidates, Trained hired people.
+        - Provided QAs feedback, Reported performance progress, Promoted to new roles.
+        - **Migrated** old-fashioned framework to **Cypress*.
 
 
 project:
@@ -169,20 +182,32 @@ project:
     Developed my own **portfolio** as an online summary of my resume/profile
     Live Demo - https://cvera-portfolio.vercel.app
     View GitHub Source - https://github.com/cvera08/CVeraPortfolio
+
     __________________________________________
+    
     Blockchain QAAutomation (Jan 2023-Present)
     Automation Architect - Piriapolis, Maldonado, Uruguay
     Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts
     Live Demo - http://bitly.ws/Apc4
     View GitHub Source - https://github.com/cvera08/blockchain-automation
+    
+    
     __________________________________________
+    
+    
     Climate Change - Climate Crisis (May 2022-Dec 2022)
     Back-end dev - Atlantida, Canelones, Uruguay
     Generated live URLs related to science and the environment all around the globe by using **REST APIs**
     Live Demo - https://climate-change-api-demo.vercel.app
     View GitHub Source - https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios
+
+
+
     __________________________________________
+    
+    
+    
     Uruguayan biller (Jul 2021-May 2022)
     Front-end dev - Piriapolis, Maldonado, Uruguay
     Built & Tested the FacturaUY website to support the creation of new **invoices**
@@ -190,7 +215,46 @@ project:
     (only available in the Spanish version since it is focused on the Uruguayan market)
 
 
-
+organization:
+  show: true
+  order: 9
+  title: TOOLS EXPERIENCE
+  description: |
+    - Project Management: Jira, Confluence, Trello.
+    - Agile Methodologies: Scrum, Kanban.
+    - TestCases Tool: TestRail, TestLink, Jira + plugins like Zephyr orXray.
+    - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
+    - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit,JBehave, Mocha, Protractor, PhantomJS.
+    - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
+    - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
+    - IDEs: IntelliJ, Visual Studio Code,RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
+    - Continuous Integration: GitHub Actions, Jenkins,TeamCity.
+    - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
+    - Git: SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
+    - Repositories: GitHub, GitLab, Bitbucket.
+    - Test Report Tool: TestNG, ExtentReports, Log4j, Cucumber Extent Report, Allure.
+    - DevTools: Console, Elements, Sources, Network.
+    - Unit Testing: npm, Node.js, Jasmine.
+    - Performance Testing: JMeter.
+    - Security & Penetration Testing: Kali Linux, Wireshark, Metasploit.
+    - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, Access, DB2.
+    - DevOps: Jenkins installation and its setup from scratch.
+    - Build Automation Tool: Maven, Cocoapods, AWS CLI(Command Line Interface).
+    - Automation Tools / Libraries: Puppeteer, Chai, Docker.
+    - Front-end: CSS, HTML, JS, Heroku.
+    - Back-end: Cheerio, Express, Axios, Nodemon, Rapidapi.
+    - Node Package: npm, npx, yarn.
+    - Operating Systems: Mac OS, Windows, Linux.
+    - Mobile Platforms: iPhone, Android.
+    - Mobile Automation (Native): Appium, XCUITest, Robotium, TestFlight, Fastlane, XCTest.
+    - Cloud Solutions / Multi Platform: AWS(Amazon),CrossBrowserTesting, Sauce Labs,Perfecto Mobile, Device Farm.
+    - Logs: Splunk, Logcat.
+    - Desktop Virtualization: VDI, VM, VPN.
+    - VPN: OpenVPN, AnyConnect, WinSCP.
+    - Remote Access Software: TeamViewer, VNC.
+    - Blockchain: Solidity.
+    - Data Mining: Weka.
+    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.
 
 footer:
   display: false
