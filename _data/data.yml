@@ -33,7 +33,7 @@ evaluation:
   order: 2
   title: About Me
   description: |
-    QA **Automation** with more than a decade of hands-on experience in software development.
+    QA **Automation** with more than a decade of hands-on experience in software development.  
     **System Engineer**, certified in ISTQB (Foundation Level), and have passed the IELTS exam (International English
     Language Testing System).
     <!-- pagebreak -->
@@ -145,7 +145,6 @@ experience:
         - Implemented Conventional Commits & CI/CD by using **GitHub Actions**.
         - Set up for contract testing with Pact.
 
-  items:
     - company: Socure - [Identity Verification & Fraud Prevention]
       link:
       tags: 
@@ -158,7 +157,6 @@ experience:
         - Performed Code & Pair Reviews.
         - Established **Jenkins job for automation** builds.
 
-  items:
     - company: Renault & Nissan - [Automobile Manufacturer]
       link:
       tags: 
@@ -177,30 +175,30 @@ project:
   order: 8
   title: PERSONAL PROJECTS
   description: |
-    Carlos Vera's Portfolio (Jul 2022-Present)
-    Front-end dev - Piriapolis, Maldonado, Uruguay
-    Developed my own **portfolio** as an online summary of my resume/profile
-    Live Demo - https://cvera-portfolio.vercel.app
-    View GitHub Source - https://github.com/cvera08/CVeraPortfolio
+    Carlos Vera's Portfolio (Jul 2022-Present)  
+    Front-end dev - Piriapolis, Maldonado, Uruguay  
+    Developed my own **portfolio** as an online summary of my resume/profile  
+    Live Demo - https://cvera-portfolio.vercel.app  
+    View GitHub Source - https://github.com/cvera08/CVeraPortfolio  
 
     __________________________________________
     
-    Blockchain QAAutomation (Jan 2023-Present)
-    Automation Architect - Piriapolis, Maldonado, Uruguay
-    Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress
-    Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts
-    Live Demo - http://bitly.ws/Apc4
-    View GitHub Source - https://github.com/cvera08/blockchain-automation
+    Blockchain QAAutomation (Jan 2023-Present)  
+    Automation Architect - Piriapolis, Maldonado, Uruguay  
+    Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress  
+    Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts  
+    Live Demo - http://bitly.ws/Apc4  
+    View GitHub Source - https://github.com/cvera08/blockchain-automation  
     
     
     __________________________________________
     
     
-    Climate Change - Climate Crisis (May 2022-Dec 2022)
-    Back-end dev - Atlantida, Canelones, Uruguay
-    Generated live URLs related to science and the environment all around the globe by using **REST APIs**
-    Live Demo - https://climate-change-api-demo.vercel.app
-    View GitHub Source - https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios
+    Climate Change - Climate Crisis (May 2022-Dec 2022)  
+    Back-end dev - Atlantida, Canelones, Uruguay  
+    Generated live URLs related to science and the environment all around the globe by using **REST APIs**  
+    Live Demo - https://climate-change-api-demo.vercel.app  
+    View GitHub Source - https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios  
 
 
 
@@ -208,11 +206,11 @@ project:
     
     
     
-    Uruguayan biller (Jul 2021-May 2022)
-    Front-end dev - Piriapolis, Maldonado, Uruguay
-    Built & Tested the FacturaUY website to support the creation of new **invoices**
-    Live Demo - https://cvera08.github.io/FactureroUruguayo
-    (only available in the Spanish version since it is focused on the Uruguayan market)
+    Uruguayan biller (Jul 2021-May 2022)  
+    Front-end dev - Piriapolis, Maldonado, Uruguay  
+    Built & Tested the FacturaUY website to support the creation of new **invoices**  
+    Live Demo - https://cvera08.github.io/FactureroUruguayo  
+    (only available in the Spanish version since it is focused on the Uruguayan market)  
 
 
 organization:
@@ -255,6 +253,27 @@ organization:
     - Blockchain: Solidity.
     - Data Mining: Weka.
     - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.
+
+
+education:
+  show: true
+  order: 10
+  title: Education
+  description: |
+
+  items:
+    - institution: JavaScript Promises and Async Programming by Nate Taylor
+      link: 'https://app.pluralsight.com/library/courses/javascript-promises-async-programming'
+      date: 05/2022
+      major: 
+      degree: 
+      description: |
+        
+    - institution: JavaScript REST APIs by Paul D. Sheriff
+      link: 'https://app.pluralsight.com/achievements/share/da74e682-f769-4027-8dcc-b90303e6dd59'
+      date: 04/2022
+
+
 
 footer:
   display: false
