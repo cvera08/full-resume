@@ -161,13 +161,25 @@ experience:
       link:
       tags: 
       date: Oct 2015 - Jul 2019
-      role: QA Technical Lead (of Manual, Hybrid &amp; Automation)
+      role: QA Technical Lead (of Manual, Hybrid & Automation)
       location: London, England, U.K.
       description: |
         - Contacted clients, Synced with other managers, Generated metrics & reports.
         - Settled internal **hiring process** of the company, Interviewed candidates, Trained hired people.
         - Provided QAs feedback, Reported performance progress, Promoted to new roles.
-        - **Migrated** old-fashioned framework to **Cypress*.
+        - **Migrated** old-fashioned framework to **Cypress**.
+
+    - company: Webee - [IoT / Internet of Things]
+      link:
+      tags: 
+      date: May 2014 - Oct 2015
+      role: Architect Quality Engineer (Android - Mobile Responsive)
+      location: Sunnyvale, California, U.S.
+      description: |
+        - Established user stories acceptance criteria with Cucumber format.
+        - Determined automation candidates from manual test case suites.
+        - Improved the legacy UI automation architecture making it more scalable in time.
+        - Reported application **bugs** with Priority & Severity in Jira (**found by automation**).
 
 
 project:
@@ -273,7 +285,29 @@ education:
       link: 'https://app.pluralsight.com/achievements/share/da74e682-f769-4027-8dcc-b90303e6dd59'
       date: 04/2022
 
+    - institution: General Data Protection Regulation
+      link: 'https://www.knowbe4.com'
+      date: 04/2022
 
+    - institution: End-to-end Web Testing withTestCafe
+      link: 'https://app.pluralsight.com/library/courses/testcafe-endto-end-web-testing-getting-started/table-of-contents'
+      date: 02/2022
+
+    - institution: Danger Zone
+      link: 'https://www.knowbe4.com'
+      date: 01/2022
+
+language:
+  show: true
+  order: 11
+  title: Languages
+  description: |
+
+  items:
+    - idiom: English
+      level: Advanced
+    - idiom: Spanish
+      level: Mother Tongue
 
 footer:
   display: false
