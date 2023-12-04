@@ -181,6 +181,31 @@ experience:
         - Improved the legacy UI automation architecture making it more scalable in time.
         - Reported application **bugs** with Priority & Severity in Jira (**found by automation**).
 
+    - company: PwC [Audit & Tax Advisory] 
+      date: Jan 2013 - May 2014
+      role: Ssr. Automation Engineer (Back-end Web)
+      location: San Francisco, California, U.S.
+      description: |
+        - Built a Backend Automation Framework from scratch to support API developments.
+        - Integrated Postman to **CI/CD** using Newman.
+        - Validated User Stories through automation.  
+
+    - company: EY - [Accounting]  
+      date: Dec 2010 - Jan 2013
+      role: Tester QA (Front-end Web)
+      location: San Francisco, California, U.S.
+      description: |
+        - Ran **Exploratory Tests**.
+        - Gathered new requirements.
+        - Analyzed results of regression cycles, Fixed outdated automation tests.
+
+    - company: NEPS Solutions - [Software Factory]
+      date: Jan 2010 - Feb 2011
+      role: Jr. Developer (Front-end Web) - Cordoba, Cordoba, Argentina
+      location: San Francisco, California, U.S.
+      description: |
+        - Developed the **shopping cart** flow.
+        - Accomplished mostly Front-end tasks using C#(.NET).
 
 project:
   show: true
@@ -296,6 +321,60 @@ education:
     - institution: Danger Zone
       link: 'https://www.knowbe4.com'
       date: 01/2022
+
+    - institution: Your Role: Internet Security and You
+      link: 'https://www.knowbe4.com'
+      date: 09/2021
+
+    - institution: Building Machine Learning Solutions with Java
+      link: 'https://www.pluralsight.com/courses/preparing-data-machine-learning-java'
+      date: 07/2021
+
+    - institution: Security Awareness Course
+      link: 'https://www.knowbe4.com'
+      date: 06/2021
+
+    - institution: English - Certified IELTS. 
+      link: 'https://www.ielts.org/'
+      date: 03/2020
+      description: |
+        Candidate: 003239 - Centre: AR630.  
+        Overall: Competent User - Listening, Reading, Writing & Speaking. The test taker has an effective command of the language. They can use and understand fairly complex language, particularly in familiar situations.  
+        IDP IELTS Australia - International English Language Testing System
+
+    - institution: Blockchain: Introduction to Hyperledger Fabric for Devs
+      link: 'https://academy.b9lab.com/courses/course-v1:B9lab+HLF-101+2017-11/about'
+      date: 06/2019
+
+    - institution: Complete Penetration Testing and Ethical hacking Bootcamp.
+      link: 'https://www.udemy.com/course/complete-pentester-course/'
+      date: 09/2017
+      description: |
+        CaTopics: Command Injection, XSS (Cross Site Scripting), CSRF (Cross Site Request Forgery), etc. Tools: Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat, Armitage, etc
+
+    - institution: ISTQB Certified Tester - Foundation Level.
+      link: 'https://www.istqb.org/'
+      date: 06/2014
+      description: |
+        Certificate Number: 14-CTFL-57115-HA.  
+        Pearson VUE - International Software Testing Qualifications Board
+
+    - institution: System Engineering. UTN FRC - Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+      link: 'https://www.frc.utn.edu.ar/'
+      date: 01/2013
+
+    - institution: Evaluation of user experience - UTN FRC (Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+      link: 'https://www.frc.utn.edu.ar/'
+      date: 01/2011
+
+    - institution: PC Repairer Course. AES Computación.
+      link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
+      date: 12/2006
+
+    - institution: PC Operator Course. CAETAG - Centro de Altos Estudios - Alta Gracia
+      link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
+      date: 12/2004
+
 
 language:
   show: true
