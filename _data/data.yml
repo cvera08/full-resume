@@ -40,32 +40,28 @@ evaluation:
 
     <br>
 
-    Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
+    Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).  
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
     Native). For most projects, I have used Jira, Git, Jenkins, Cypress and JavaScript (or Selenium and Java) but I do
     have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).
 
     <br>
 
-    Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.
-    Some of my professional skills are Teamwork, Proactivity and Leadership.
+    Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.  
+    Some of my professional skills are Teamwork, Proactivity and Leadership.  
     <br>
-    Front-end Sites:
-    Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app
-    Invoice Generator - https://cvera08.github.io/FactureroUruguayo
-    CVera Portfolio - https://cvera-portfolio.vercel.app
+    Front-end Sites:  
+    Chase the Ace (JS Card Game) - https://chase-the-ace.vercel.app  
+    Invoice Generator - https://cvera08.github.io/FactureroUruguayo  
+    CVera Portfolio - https://cvera-portfolio.vercel.app  
 
     <br>
 
-    Back-end Project:
+    Back-end Project:  
     Climate Change - https://climate-change-api-demo.vercel.app
-    
-    <br>
-
+    ___________________
     <More Github Projects are available at https://github.com/cvera08>
-
-    <br>
-
+    ___________________
     Additional information: www.linkedin.com/in/carlos-vera-automation-qa
 
 
@@ -74,13 +70,14 @@ interest:
   order: 3
   title: Areas of Interests
   description: |
-    I am interested in technical **roles**, such as 100% **Automation** QA or QA **Technical** Lead areas (**Automation** Architect).
+    I am interested in technical **roles**, such as 100% **Automation** QA or QA **Technical** Lead areas (**Automation** Architect).  
+
+    <br>
 
     Currently, my specific **areas** of interest are: **Cybersecurity, Blockchain** developments, **Backend** Automation,
-    and Frontend with **Cypress/JS**, **Playwright/TS**.
+    and Frontend with **Cypress/JS**, **Playwright/TS**.  
 
-    My main motivation is client satisfaction and quality delivery.When you work with me, you will get 100%
-    satisfaction guaranteed in my work and my process.
+    My main motivation is client satisfaction and quality delivery.When you work with me, you will get 100% satisfaction guaranteed in my work and my process.
 
 
 award:
@@ -159,7 +156,7 @@ experience:
       location: Florida City, Florida, U.S.
       description: |
         - Tested the 'face & ID recognition' app using Xcode simulators.
-        - Linked Xcode IDE with real mobile devices (iPhone, iPad) to automate the **iOS app**.
+        - Linked Xcode IDE with real devices (iPhone, iPad) to automate the **iOS app**.
         - Performed Code & Pair Reviews.
         - Established **Jenkins job for automation** builds.
 
@@ -199,7 +196,7 @@ experience:
     - company: EY - [Accounting]  
       date: Dec 2010 - Jan 2013
       role: Tester QA (Front-end Web)
-      location: San Francisco, California, U.S.
+      location: Chicago, Illinois, U.S.
       description: |
         - Ran **Exploratory Tests**.
         - Gathered new requirements.
@@ -208,7 +205,7 @@ experience:
     - company: NEPS Solutions - [Software Factory]
       date: Jan 2010 - Feb 2011
       role: Jr. Developer (Front-end Web) - Cordoba, Cordoba, Argentina
-      location: San Francisco, California, U.S.
+      location: Cordoba, Cordoba, Argentina
       description: |
         - Developed the **shopping cart** flow.
         - Accomplished mostly Front-end tasks using C#(.NET).
