@@ -58,11 +58,11 @@ evaluation:
     <br>
 
     Back-end Project:  
-    - Climate Change - https://climate-change-api-demo.vercel.app  
-    ___________________
-    <More Github Projects are available at https://github.com/cvera08>  
-    ___________________
-    Additional information: www.linkedin.com/in/carlos-vera-automation-qa
+    - Climate Change - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
+    __________________________________________  
+    <More Github Projects are available at [https://github.com/cvera08](https://github.com/cvera08)>  
+    __________________________________________  
+    Additional information: [linkedin.com/carlos-vera-automation-qa](www.linkedin.com/in/carlos-vera-automation-qa)  
 
 
 interest:
@@ -218,26 +218,26 @@ project:
     Carlos Vera's Portfolio [Front-end dev] (Jul 2022-Present)  
     <br>
     Developed my own **portfolio** as an online summary of my resume/profile  
-    Live Demo - https://cvera-portfolio.vercel.app  
-    View GitHub Source - https://github.com/cvera08/CVeraPortfolio  
+    Live Demo - [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app)  
+    View GitHub Source - [github.com/cvera08/CVeraPortfolio](https://github.com/cvera08/CVeraPortfolio)  
     __________________________________________  
     Blockchain QAAutomation [Automation Architect] (Jan 2023-Present)  
     <br>  
     Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress  
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts  
-    Live Demo - http://bitly.ws/Apc4  
-    View GitHub Source - https://github.com/cvera08/blockchain-automation  
+    Live Demo - [bitly.ws/SmartContractCypress](http://bitly.ws/Apc4)  
+    View GitHub Source - [github.com/cvera08/blockchain-automation](https://github.com/cvera08/blockchain-automation)  
     __________________________________________  
     Climate Change - Climate Crisis [Back-end dev] (May 2022-Dec 2022)  
     <br>  
     Generated live URLs related to science and the environment all around the globe by using **REST APIs**  
-    Live Demo - https://climate-change-api-demo.vercel.app  
-    View GitHub Source - https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios  
+    Live Demo - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
+    View GitHub Source - [github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios](https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios)  
     __________________________________________  
     Uruguayan biller [Front-end dev] (Jul 2021-May 2022)  
     <br>  
     Built & Tested the FacturaUY website to support the creation of new **invoices**  
-    Live Demo - https://cvera08.github.io/FactureroUruguayo  
+    Live Demo - [cvera08.github.io/FactureroUruguayo](https://cvera08.github.io/FactureroUruguayo)  
     (only available in the Spanish version since it is focused on the Uruguayan market)  
 
 
@@ -351,13 +351,17 @@ education:
         Certificate Number: 14-CTFL-57115-HA.  
         Pearson VUE - International Software Testing Qualifications Board
 
-    - institution: System Engineering. UTN FRC - Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+    - institution: System Engineering. UTN FRC
       link: 'https://www.frc.utn.edu.ar/'
       date: 01/2013
+      description: |
+        UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba.
 
-    - institution: Evaluation of user experience - UTN FRC (Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+    - institution: Evaluation of user experience - UTN FRC
       link: 'https://www.frc.utn.edu.ar/'
       date: 01/2011
+      description: |
+        UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba.
 
     - institution: PC Repairer Course. AES Computación.
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
