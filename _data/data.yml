@@ -59,8 +59,9 @@ evaluation:
 
     Back-end Project:  
     - Climate Change - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
+
     __________________________________________  
-    <More Github Projects are available at [https://github.com/cvera08](https://github.com/cvera08)>  
+    <More Github Projects are available at [github.com/cvera08](https://github.com/cvera08)>  
     __________________________________________  
     Additional information: [linkedin.com/carlos-vera-automation-qa](www.linkedin.com/in/carlos-vera-automation-qa)  
 
@@ -220,20 +221,20 @@ project:
     Developed my own **portfolio** as an online summary of my resume/profile  
     Live Demo - [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app)  
     View GitHub Source - [github.com/cvera08/CVeraPortfolio](https://github.com/cvera08/CVeraPortfolio)  
-    __________________________________________  
+    ---  
     Blockchain QAAutomation [Automation Architect] (Jan 2023-Present)  
     <br>  
     Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress  
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts  
     Live Demo - [bitly.ws/SmartContractCypress](http://bitly.ws/Apc4)  
     View GitHub Source - [github.com/cvera08/blockchain-automation](https://github.com/cvera08/blockchain-automation)  
-    __________________________________________  
+    ---  
     Climate Change - Climate Crisis [Back-end dev] (May 2022-Dec 2022)  
     <br>  
     Generated live URLs related to science and the environment all around the globe by using **REST APIs**  
     Live Demo - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
     View GitHub Source - [github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios](https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios)  
-    __________________________________________  
+    ---  
     Uruguayan biller [Front-end dev] (Jul 2021-May 2022)  
     <br>  
     Built & Tested the FacturaUY website to support the creation of new **invoices**  
@@ -325,26 +326,27 @@ education:
       link: 'https://www.knowbe4.com'
       date: 06/2021
 
-    - institution: English - Certified IELTS. 
+    - institution: English - Certified IELTS 
       link: 'https://www.ielts.org/'
       date: 03/2020
       description: |
         Candidate: 003239 - Centre: AR630.  
-        Overall: Competent User - Listening, Reading, Writing & Speaking. The test taker has an effective command of the language. They can use and understand fairly complex language, particularly in familiar situations.  
+        Overall: Competent User - Listening, Reading, Writing & Speaking.  
+        The test taker has an effective command of the language. They can use and understand fairly complex language, particularly in familiar situations.  
         IDP IELTS Australia - International English Language Testing System
 
     - institution: Blockchain - Introduction to Hyperledger Fabric for Devs
       link: 'https://academy.b9lab.com/courses/course-v1:B9lab+HLF-101+2017-11/about'
       date: 06/2019
 
-    - institution: Complete Penetration Testing and Ethical hacking Bootcamp.
+    - institution: Complete Penetration Testing and Ethical hacking Bootcamp
       link: 'https://www.udemy.com/course/complete-pentester-course/'
       date: 09/2017
       description: |
         Topics: Command Injection, XSS, CSRF, etc.  
         Tools: Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat, Armitage, etc
 
-    - institution: ISTQB Certified Tester - Foundation Level.
+    - institution: ISTQB Certified Tester - Foundation Level
       link: 'https://www.istqb.org/'
       date: 06/2014
       description: |
@@ -361,7 +363,7 @@ education:
       link: 'https://www.frc.utn.edu.ar/'
       date: 01/2011
       description: |
-        UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+        UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba
 
     - institution: PC Repairer Course. AES Computación.
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
