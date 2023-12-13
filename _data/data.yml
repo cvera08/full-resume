@@ -60,8 +60,9 @@ evaluation:
     Back-end Project:  
     - Climate Change - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
 
-    __________________________________________  
-    <More Github Projects are available at [github.com/cvera08](https://github.com/cvera08)>  
+    <br>
+
+    *<More Github Projects are available at [github.com/cvera08](https://github.com/cvera08)>*  
 
     __________________________________________  
     Additional information: [linkedin.com/carlos-vera-automation-qa](www.linkedin.com/in/carlos-vera-automation-qa)  
@@ -222,6 +223,7 @@ project:
     Developed my own **portfolio** as an online summary of my resume/profile  
     Live Demo - [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app)  
     View GitHub Source - [github.com/cvera08/CVeraPortfolio](https://github.com/cvera08/CVeraPortfolio)  
+
     ---  
     Blockchain QAAutomation [Automation Architect] (Jan 2023-Present)  
     <br>  
@@ -229,6 +231,7 @@ project:
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts  
     Live Demo - [bitly.ws/SmartContractCypress](http://bitly.ws/Apc4)  
     View GitHub Source - [github.com/cvera08/blockchain-automation](https://github.com/cvera08/blockchain-automation)  
+
     ___  
     Climate Change - Climate Crisis [Back-end dev] (May 2022-Dec 2022)  
     <br>  
@@ -251,7 +254,7 @@ organization:
   description: |
     - Project Management: Jira, Confluence, Trello.
     - Agile Methodologies: Scrum, Kanban.
-    - TestCases Tool: TestRail, TestLink, Jira + plugins like Zephyr orXray.
+    - TestCases Tool: TestRail, TestLink, Jira + plugins like Zephyr or Xray.
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
     - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit,JBehave, Mocha, Protractor, PhantomJS.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
@@ -335,25 +338,25 @@ education:
         Candidate: 003239 - Centre: AR630.  
         Overall: Competent User - Listening, Reading, Writing & Speaking.  
         The test taker has an effective command of the language. They can use and understand fairly complex language, particularly in familiar situations.  
-        IDP IELTS Australia - International English Language Testing System
+        IDP IELTS Australia - International English Language Testing System.
 
     - institution: Blockchain - Introduction to Hyperledger Fabric for Devs
       link: 'https://academy.b9lab.com/courses/course-v1:B9lab+HLF-101+2017-11/about'
       date: 06/2019
 
-    - institution: Complete Penetration Testing and Ethical hacking Bootcamp
+    - institution: Penetration Testing and Ethical hacking Bootcamp
       link: 'https://www.udemy.com/course/complete-pentester-course/'
       date: 09/2017
       description: |
-        Topics: Command Injection, XSS, CSRF, etc.  
-        Tools: Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat, Armitage, etc
+        Topics: Command Injection, XSS, CSRF, more.  
+        Tools: Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat, etc.
 
     - institution: ISTQB Certified Tester - Foundation Level
       link: 'https://www.istqb.org/'
       date: 06/2014
       description: |
         Certificate Number: 14-CTFL-57115-HA.  
-        Pearson VUE - International Software Testing Qualifications Board
+        Pearson VUE - International Software Testing Qualifications Board.
 
     - institution: System Engineering. UTN FRC
       link: 'https://www.frc.utn.edu.ar/'
@@ -367,13 +370,15 @@ education:
       description: |
         UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba
 
-    - institution: PC Repairer Course. AES Computación.
+    - institution: PC Repairer Course. AES Computación
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
       date: 12/2006
 
-    - institution: PC Operator Course. CAETAG - Centro de Altos Estudios - Alta Gracia
+    - institution: PC Operator Course. CAETAG
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
       date: 12/2004
+      description: |
+        CAETAG: Centro de Altos Estudios - Alta Gracia.
 
 
 language:
