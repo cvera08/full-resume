@@ -62,16 +62,16 @@ evaluation:
 
     <br>
 
-    *<More Github Projects are available at [github.com/cvera08](https://github.com/cvera08)>*  
+    *More Github Projects are available at [github.com/cvera08](https://github.com/cvera08)*  
 
     __________________________________________  
-    Additional information: [linkedin.com/carlos-vera-automation-qa](www.linkedin.com/in/carlos-vera-automation-qa)  
+    *<Additional information: [linkedin.com/carlos-vera-automation-qa](www.linkedin.com/in/carlos-vera-automation-qa)>*  
 
 
 interest:
   show: true
   order: 3
-  title: Areas of Interests
+  title: Areas of Interest
   description: |
     I am interested in technical **roles**, such as 100% **Automation** QA or QA **Technical** Lead areas (**Automation** Architect).  
 
@@ -129,7 +129,7 @@ reference:
     - Contribute to performance and scalability automation testing through coding best practices.  
     - Create and maintain data sets to be used in test automation activities.  
     - Coordinate and manage automated testing efforts for single or concurrent projects.
-    - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.
+    - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.  
 
 
 experience:
@@ -211,7 +211,7 @@ experience:
       location: Cordoba, Cordoba, Argentina
       description: |
         - Developed the **shopping cart** flow.
-        - Accomplished mostly Front-end tasks using C#(.NET).
+        - Accomplished mostly Front-end tasks using C#(.NET).  
 
 project:
   show: true
@@ -226,7 +226,7 @@ project:
 
     ---  
     Blockchain QAAutomation [Automation Architect] (Jan 2023-Present)  
-    <br>  
+    <br>
     Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress  
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts  
     Live Demo - [bitly.ws/SmartContractCypress](http://bitly.ws/Apc4)  
@@ -234,14 +234,14 @@ project:
 
     ___  
     Climate Change - Climate Crisis [Back-end dev] (May 2022-Dec 2022)  
-    <br>  
+    <br>
     Generated live URLs related to science and the environment all around the globe by using **REST APIs**  
     Live Demo - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
     View GitHub Source - [github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios](https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios)  
 
     ---  
-    Uruguayan Biller [Front-end dev] (Jul 2021-May 2022)
-    <br>  
+    Uruguayan Biller [Front-end dev] (Jul 2021-May 2022)  
+    <br>
     Built & Tested the FacturaUY website to support the creation of new **invoices**  
     Live Demo - [cvera08.github.io/FactureroUruguayo](https://cvera08.github.io/FactureroUruguayo)  
     (only available in the Spanish version since it is focused on the Uruguayan market)  
@@ -286,7 +286,7 @@ organization:
     - Remote Access Software: TeamViewer, VNC.
     - Blockchain: Solidity.
     - Data Mining: Weka.
-    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.
+    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.  
 
 
 education:
@@ -378,7 +378,7 @@ education:
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
       date: 12/2004
       description: |
-        CAETAG: Centro de Altos Estudios - Alta Gracia.
+        CAETAG: Centro de Altos Estudios - Alta Gracia.  
 
 
 language:
