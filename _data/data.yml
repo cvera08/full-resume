@@ -18,7 +18,7 @@ contact:
   # other cv
   linkedin:                carlos-vera-automation-qa  # username          | https://linkedin.com/in/username  
 
-
+<br>
 profile:
   show: true
   order: 1
@@ -121,8 +121,7 @@ reference:
     - Contribute to performance and scalability automation testing through coding best practices.  
     - Create and maintain data sets to be used in test automation activities.  
     - Coordinate and manage automated testing efforts for single or concurrent projects.
-    - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.  
-      
+    - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.
 
 
 experience:
@@ -282,7 +281,7 @@ organization:
     - Data Mining: Weka.
     - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.  
 
-
+<br>
 education:
   show: true
   order: 10
@@ -378,7 +377,7 @@ education:
       description: |
         CAETAG: Centro de Altos Estudios - Alta Gracia.  
 
-
+<br>
 language:
   show: true
   order: 11
