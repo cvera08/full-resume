@@ -16,9 +16,10 @@ contact:
   github:                  cvera08 # username          | https://github.com/username
 
   # other cv
-  linkedin:                carlos-vera-automation-qa  # username          | https://linkedin.com/in/username  
+  linkedin: |
+    carlos-vera-automation-qa  
+    <br>
 
-<br>
 profile:
   show: true
   order: 1
@@ -280,8 +281,9 @@ organization:
     - Blockchain: Solidity.
     - Data Mining: Weka.
     - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.  
+    <br>
 
-<br>
+
 education:
   show: true
   order: 10
@@ -376,8 +378,8 @@ education:
       date: 12/2004
       description: |
         CAETAG: Centro de Altos Estudios - Alta Gracia.  
+        <br>
 
-<br>
 language:
   show: true
   order: 11
