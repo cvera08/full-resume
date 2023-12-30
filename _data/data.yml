@@ -330,7 +330,8 @@ education:
       description: |
         Candidate: 003239 - Centre: AR630.  
         Overall: Competent User - Listening, Reading, Writing & Speaking.  
-        The test taker has an effective command of the language. They can use and understand fairly complex language, particularly in familiar situations.  
+        The test taker has an effective command of the language.  
+        They can use and understand fairly complex language, particularly in familiar situations.  
         IDP IELTS Australia - International English Language Testing System.
 
     - institution: Blockchain - Introduction to Hyperledger Fabric for Devs
