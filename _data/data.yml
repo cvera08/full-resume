@@ -390,6 +390,20 @@ language:
     - idiom: Spanish
       level: Mother Tongue
 
+hobbies:
+  show: true
+  order: 12
+  title: Hobbies
+  description: |
+
+  items:
+    - idiom: Family Time
+      level: Spending quality moments with my loved ones
+    - idiom: Passionate about Cybersecurity and Blockchain Automation
+      level: Eagerly exploring automation in those fields
+    - idiom: Fishing Enthusiast
+      level: Enjoying peaceful moments by the water while fishing
+
 footer:
   display: false
 
