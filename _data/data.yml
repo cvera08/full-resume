@@ -289,6 +289,13 @@ education:
   description: |
 
   items:
+    - institution: Introduction to Generative AI Studio
+      link: 'https://simpli-web.app.link/e/RgsFKM9JYGb'
+      date: 02/2024
+      major: 
+      degree: 
+      description: |
+
     - institution: Introduction to Artificial Intelligence
       link: 'https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI5MzIiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NjE0NTI2XzE2OTg2ODA3MDAucG5nIiwidXNlcm5hbWUiOiJDYXJsb3MgVmVyYSJ9'
       date: 10/2023
