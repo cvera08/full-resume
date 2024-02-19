@@ -418,6 +418,14 @@ hobbies:
     - idiom: Fishing Enthusiast
       level: Enjoying peaceful moments by the water while fishing
 
+publication:
+  show: true
+  order: 13
+  title: ADDITIONAL INFORMATION
+  description: |
+    *Let's Connect and Drive Quality together!*  
+    - [linkedin.com/carlos-vera-automation-qa](https://www.linkedin.com/in/carlos-vera-automation-qa)  
+
 footer:
   display: false
 
