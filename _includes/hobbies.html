@@ -14,16 +14,16 @@
     {%- endif %}
 
     {%- if hobbies.items %}
-    <div class="items">
+    <ul class="items">
       {%- for item in hobbies.items %}
-      <div class="item">
+      <li class="item">
         <span>{{ item.idiom }}</span>
         {%- if item.level %}
         <small>[{{ item.level }}]</small>
         {%- endif %}
-      </div>
+      </li>
       {%- endfor %}
-    </div>
+    </ul>
     {%- endif %}
   </div>
 </section>
