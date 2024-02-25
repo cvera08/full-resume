@@ -288,6 +288,13 @@ education:
   description: |
 
   items:
+    - institution: Automating your API tests with REST Assured
+        link: 'https://testautomationu.applitools.com/certificate/?id=10cff908'
+        date: 03/2024
+        major: 
+        degree: 
+        description: |
+
     - institution: Introduction to Generative AI Studio
       link: 'https://simpli-web.app.link/e/RgsFKM9JYGb'
       date: 02/2024
