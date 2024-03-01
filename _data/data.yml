@@ -390,12 +390,6 @@ education:
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
       date: 12/2006
 
-    - institution: PC Operator Course. CAETAG
-      link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
-      date: 12/2004
-      description: |
-        CAETAG: Centro de Altos Estudios - Alta Gracia.  
-
 language:
   show: true
   order: 11
