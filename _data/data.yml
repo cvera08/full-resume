@@ -386,10 +386,6 @@ education:
       link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
       date: 12/2007
 
-    - institution: Advanced PC Operator Course for secretaries. AES Computación
-      link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
-      date: 12/2006
-
 language:
   show: true
   order: 11
