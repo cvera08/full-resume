@@ -382,10 +382,6 @@ education:
       description: |
         UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba
 
-    - institution: PC Repairer Course. AES Computación
-      link: 'https://www.educaedu.com.ar/centros/aes-capacitacion-uni3045'
-      date: 12/2007
-
 language:
   show: true
   order: 11
