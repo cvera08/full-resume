@@ -376,12 +376,6 @@ education:
       description: |
         UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba.
 
-    - institution: Evaluation of user experience - UTN FRC
-      link: 'https://www.frc.utn.edu.ar/'
-      date: 01/2011
-      description: |
-        UTN FRC: Universidad Tecnológica Nacional - Facultad Regional Córdoba
-
 language:
   show: true
   order: 11
