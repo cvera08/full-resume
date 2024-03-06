@@ -366,9 +366,8 @@ education:
     - institution: ISTQB Certified Tester - Foundation Level
       link: 'https://www.istqb.org/'
       date: 06/2014
-      description: |
-        Certificate Number: 14-CTFL-57115-HA.  
-        Pearson VUE - International Software Testing Qualifications Board.
+      description: | 
+        Pearson VUE - International Software Testing Qualifications Board. Certificate Number: 14-CTFL-57115-HA.
 
     - institution: System Engineering - UTN FRC
       link: 'https://www.frc.utn.edu.ar/'
