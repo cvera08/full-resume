@@ -360,8 +360,7 @@ education:
       link: 'https://www.udemy.com/course/complete-pentester-course/'
       date: 09/2017
       description: |
-        Topics: Command Injection, XSS, CSRF, more.  
-        Tools: Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat, etc.
+        Command Injection, XSS, CSRF. Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat.
 
     - institution: ISTQB Certified Tester - Foundation Level
       link: 'https://www.istqb.org/'
