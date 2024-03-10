@@ -328,10 +328,6 @@ education:
       link: 'https://app.pluralsight.com/library/courses/testcafe-endto-end-web-testing-getting-started/table-of-contents'
       date: 02/2022
 
-    - institution: Danger Zone
-      link: 'https://www.knowbe4.com'
-      date: 01/2022
-
     - institution: Building Machine Learning Solutions with Java
       link: 'https://www.pluralsight.com/courses/preparing-data-machine-learning-java'
       date: 07/2021
