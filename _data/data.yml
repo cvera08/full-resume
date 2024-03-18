@@ -288,6 +288,13 @@ education:
   description: |
 
   items:
+    - institution: Intro to Artificial Intelligence
+      link: 'https://bit.ly/43tEN70'
+      date: 04/2024
+      major: 
+      degree: 
+      description: |
+
     - institution: Automating your API tests with REST Assured
       link: 'https://testautomationu.applitools.com/certificate/?id=10cff908'
       date: 03/2024
