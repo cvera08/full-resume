@@ -15,33 +15,42 @@
 
     {%- if experience.items %}
     <div class="items">
+      {%- assign displayed_companies = '' %}
       {%- for item in experience.items %}
       <div class="item">
-
         {%- if item.company %}
-        <div class="row">
-          <div class="company">
-            {%- if item.link %}
-            <a href="{{ item.link }}">{{ item.company }}</a>
-            {%- else %}
-            <span>{{ item.company }}</span>
-            {%- endif %}
-            {%- if item.tags %}
-            <small>[{{ item.tags }}]</small>
-            {%- endif %}
-          </div>
-          <div class="date">
-            <span>{{ item.date }}</span>
-          </div>
-        </div>
+          {%- if displayed_companies contains item.company %}
+            {%- assign show_company = false %}
+          {%- else %}
+            {%- assign show_company = true %}
+            {%- assign displayed_companies = displayed_companies | append: item.company | append: ',' %}
+          {%- endif %}
+          {%- if show_company %}
+            <div class="row">
+              <div class="company">
+                {%- if item.link %}
+                <a href="{{ item.link }}">{{ item.company }}</a>
+                {%- else %}
+                <span>{{ item.company }}</span>
+                {%- endif %}
+                {%- if item.tags %}
+                <small>[{{ item.tags }}]</small>
+                {%- endif %}
+              </div>
+              <div class="location">
+                <i class="fa-solid fa-location-dot"></i>
+                <span>{{ item.location }}</span>
+              </div>
+            </div>
+          {%- endif %}
+        {%- endif %}
 
         <div class="row">
           <div class="role">
             <span>{{ item.role }}</span>
           </div>
-          <div class="location">
-            <i class="fa-solid fa-location-dot"></i>
-            <span>{{ item.location }}</span>
+          <div class="date">
+            <span>{{ item.date }}</span>
           </div>
         </div>
 
@@ -50,8 +59,6 @@
           {{ item.description | markdownify }}
         </div>
         {%- endif %}
-        {%- endif %}
-
       </div>
       {%- endfor %}
     </div>
