@@ -131,15 +131,24 @@ experience:
 
   items:
     - company: Blackpoint - [Cybersecurity]
+      date: Feb 2024 - Present
+      role: Automation Technical Lead
+      location: Ellicott City, Maryland, U.S.
+      description: |
+        - Implemented a **CI/CD** pipeline as Technical Lead, enhancing code quality and deployment frequency(30%).
+        - Developed a solution to automate regression testing for logged-in users by bypassing **2FA/MFA** codes, unblocking over 400 tests and increasing test efficiency by 70%.
+        - Led and managed a team of five Automation QAs, achieving a 20% increase in test automation efficiency, and delivering key cybersecurity solutions ahead of schedule.
+        - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over 2 hours to almost one.
+    - company: Blackpoint - [Cybersecurity]
       link:
       tags: 
-      date: Apr 2023 - Present
+      date: Apr 2023 - March 2024
       role: DevOps Automation Specialist
       location: Ellicott City, Maryland, U.S.
       description: |
         - Designed & **Built** the Playwright Automation **Framework** according to the cybersec needs.
-        - Prioritized technical debt. Increased the ratio of test cases that were automated.
         - Implemented Conventional Commits & CI/CD by using **GitHub Actions**.
+        - Developed integration between **Playwright** test executions and **Xray** + Jira test plan.
         - Set up for contract testing with Pact.
 
     - company: Socure - [Identity Verification & Fraud Prevention]
