@@ -210,6 +210,13 @@ project:
   order: 8
   title: PERSONAL PROJECTS
   description: |
+    **Web Based AI Games** [AI dev] (Mar 2024-Present)  
+    <br>
+    Multi Games by using **Artificial Intelligence.**  
+    Live Demo - [cvera08.github.io/multi-games-artificial-intelligence-js](https://cvera08.github.io/multi-games-artificial-intelligence-js)  
+    View GitHub Source - [github.com/cvera08/multi-games-artificial-intelligence-js](https://github.com/cvera08/multi-games-artificial-intelligence-js)  
+
+    ---  
     **Carlos Vera's Portfolio** [Front-end dev] (Jul 2023-Dec 2023)  
     <br>
     Developed my own **portfolio** as an online summary of my resume/profile.  
@@ -217,7 +224,7 @@ project:
     View GitHub Source - [github.com/cvera08/CVeraPortfolio](https://github.com/cvera08/CVeraPortfolio)  
 
     ---  
-    **Blockchain QAAutomation** [Automation Architect] (Jan 2023-Present)  
+    **Blockchain QAAutomation** [Automation Architect] (Jan 2023-Jul 2023)  
     <br>
     Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress.  
     Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts.  
