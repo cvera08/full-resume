@@ -141,6 +141,7 @@ experience:
         - Prioritized technical debt. Increased the ratio of test cases that were automated.
         - Implemented Conventional Commits & CI/CD by using **GitHub Actions**.
         - Set up for contract testing with Pact.
+    - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Present
       role: Automation Technical Lead
       location: Ellicott City, Maryland, U.S.
