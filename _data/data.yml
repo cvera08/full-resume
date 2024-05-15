@@ -146,7 +146,7 @@ experience:
       location: Florida City, Florida, U.S.
       description: |
         - Tested the 'face & ID recognition' app using Xcode simulators.
-        - Linked Xcode IDE with real devices (iPhone, iPad) to automate the **iOS app**.
+        - Improved overall product quality, resulting in a 23% decrease in post-release issues.
         - Performed Code & Pair Reviews.
         - Established **Jenkins job for automation** builds.
 
