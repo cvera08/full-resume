@@ -134,7 +134,7 @@ experience:
       location: Ellicott City, Maryland, U.S.
       description: |
         - Recognized for **building** a new testing **framework** with Playwright that led to a 27% increase in test efficiency.
-        - Implemented Conventional Commits & CI/CD by using **GitHub Actions**.
+        - Implemented a **CI/CD** pipeline by using **GitHub Actions**, enhancing code quality and deployment frequency(30%).
         - Developed integration between **Playwright** test executions and **Xray** + Jira test plan.
         - Set up for contract testing with Pact.
 
