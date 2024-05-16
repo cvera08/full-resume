@@ -147,7 +147,7 @@ experience:
       description: |
         - Tested the 'face & ID recognition' app using Xcode simulators.
         - Improved overall product quality, resulting in a 23% decrease in post-release issues.
-        - Performed Code & Pair Reviews.
+        - Linked Xcode IDE with real devices (iPhone, iPad) to automate the **iOS app**.
         - Established **Jenkins job for automation** builds.
 
     - company: Renault & Nissan - [Automobile Manufacturer]
