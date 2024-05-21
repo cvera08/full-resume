@@ -169,9 +169,8 @@ experience:
       role: Architect Quality Engineer (Android - Mobile Responsive)
       location: Sunnyvale, California, U.S.
       description: |
-        - Established user stories acceptance criteria with Cucumber format.
+        - Successfully reduced testing time by 68% by implementing efficient testing processes.
         - Determined automation candidates from manual test case suites.
-        - Improved the legacy UI automation architecture making it more scalable in time.
         - Reported application **bugs** with Priority & Severity in Jira (**found by automation**).
 
     - company: PwC [Audit & Tax Advisory] 
