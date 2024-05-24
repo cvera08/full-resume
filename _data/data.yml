@@ -170,8 +170,8 @@ experience:
       location: Sunnyvale, California, U.S.
       description: |
         - Successfully reduced testing time by 68% by implementing efficient testing processes.
-        - Determined automation candidates from manual test case suites.
         - Established user stories acceptance criteria with Cucumber format.
+        - Determined automation candidates from manual test case suites.
         - Reported application **bugs** with Priority & Severity in Jira (**found by automation**).
 
     - company: PwC [Audit & Tax Advisory] 
