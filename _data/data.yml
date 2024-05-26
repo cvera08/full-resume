@@ -298,6 +298,13 @@ education:
   description: |
 
   items:
+    - institution: Intro to AI Engineering
+      link: ''
+      date: 09/2024
+      major: 
+      degree: 
+      description: |
+
     - institution: Artificial Intelligence with Python
       link: 'https://verify.mygreatlearning.com/verify/SPVFWJAN'
       date: 05/2024
