@@ -206,7 +206,15 @@ project:
   order: 8
   title: PERSONAL PROJECTS
   description: |
-    **Web Based AI Games** [AI dev] (Mar 2024-Present)  
+    **AI Stock Predictions** [OpenAI dev] (Oct 2024-Present)  
+    <br>
+    AI-Enhanced **Trading Suggestions.**  
+    Live Demo - [github.com/user-attachments/assets/stock-predictions-demo](https://github.com/user-attachments/assets/24acedef-0c19-4872-a271-c040c4eff309)  
+    View GitHub Source - [github.com/cvera08/ai-stock-predictions](https://github.com/cvera08/ai-stock-predictions)  
+
+    ---  
+    
+    **Web Based AI Games** [AI dev] (Mar 2024-Nov2024)  
     <br>
     Multi Games by using **Artificial Intelligence.**  
     Live Demo - [cvera08.github.io/multi-games-artificial-intelligence-js](https://cvera08.github.io/multi-games-artificial-intelligence-js)  
