@@ -264,7 +264,7 @@ organization:
   description: |
     - Project Management: Jira, Confluence, Trello.
     - Agile Methodologies: Scrum, Kanban.
-    - TestCases Tool: TestRail, TestLink, Jira + plugins (like Zephyr or Xray).
+    - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
     - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit,JBehave, Mocha, Protractor, PhantomJS.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
