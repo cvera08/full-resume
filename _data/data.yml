@@ -274,7 +274,7 @@ organization:
     - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Git: SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
     - Repositories: GitHub, GitLab, Bitbucket.
-    - Test Report Tool: TestNG, ExtentReports, Log4j, Cucumber Extent Report, Allure.
+    - Test Report Tool: Monocart Reporter, TestNG, ExtentReports, Log4j, Cucumber Extent Report, Allure.
     - DevTools: Console, Elements, Sources, Network.
     - Unit Testing: npm, Node.js, Jasmine.
     - Performance Testing: JMeter.
