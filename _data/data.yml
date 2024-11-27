@@ -269,7 +269,7 @@ organization:
     - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit,JBehave, Mocha, Protractor, PhantomJS.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
-    - IDEs: IntelliJ, Visual Studio Code, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
+    - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Jenkins, TeamCity.
     - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Git: SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
