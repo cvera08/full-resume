@@ -271,7 +271,7 @@ organization:
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Jenkins, TeamCity.
-    - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
+      - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Git: SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Report Tool: Monocart Reporter, TestNG, ExtentReports, Log4j, Cucumber Extent Report, Allure.
