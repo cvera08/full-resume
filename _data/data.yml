@@ -288,13 +288,13 @@ organization:
     - Unit Testing: Node.js, Jasmine.
     - Performance Testing: JMeter, k6, LoadRunner.
     - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
-    - Databases: MySQL (including MySQLWorkbench), MongoDB (including RoboMongo), DB2.
     - DevOps: Jenkins installation and its setup from scratch. AWS services (EC2, S3, Lambda).
     - Containerization: Docker, Kubernetes.
     - Environment & Configuration Management: Dotenv, ARM Templates.
     - Build Automation: Maven, Cocoapods, AWS CLI (Command Line Interface).
     - Front-end: CSS, HTML, JS, Heroku.
     - Back-end: Cheerio, Express, Axios, Nodemon, Rapidapi.
+    - Databases: MySQL (including MySQLWorkbench), MongoDB (including RoboMongo), DB2.
     - Node Package: npm, npx, yarn.
     - Operating Systems: Mac OS, Windows, Linux.
     - Mobile Platforms: iPhone, Android.
