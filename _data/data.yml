@@ -279,7 +279,7 @@ organization:
     - DevTools: Console, Elements, Sources, Network.
     - Unit Testing: npm, Node.js, Jasmine.
     - Performance Testing: JMeter.
-    - Security & Penetration Testing: Kali Linux, Wireshark, Metasploit.
+    - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
     - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, Access, DB2.
     - DevOps: Jenkins installation and its setup from scratch.
     - Build Automation Tool: Maven, Cocoapods, AWS CLI (Command Line Interface).
