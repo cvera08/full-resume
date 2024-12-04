@@ -266,9 +266,10 @@ organization:
     - Agile Methodologies: Scrum, Kanban.
     - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
-    - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit,JBehave, Mocha, Protractor, PhantomJS.
+    - Automation Testing Frameworks: Cypress, Playwright, Selenium, TestNG, JUnit, Mocha, Protractor, PhantomJS.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
+    - Behavior-Driven Development (BDD): Cucumber, JBehave.
     - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Jenkins, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
