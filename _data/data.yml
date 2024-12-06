@@ -266,7 +266,7 @@ organization:
     - Agile Methodologies: Scrum, Kanban.
     - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
-    - JavaScript/Node.js Testing Frameworks: Cypress, Mocha, Protractor, PhantomJS.
+    - JavaScript/Node.js Testing Frameworks: Cypress, Mocha, Puppeteer, Protractor, PhantomJS.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Behavior-Driven Development (BDD): Cucumber, JBehave.
