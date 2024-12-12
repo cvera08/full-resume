@@ -265,7 +265,7 @@ organization:
     - Project Management: Jira, Confluence, Trello.
     - Agile Methodologies: Scrum, Kanban.
     - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
-    - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net.
+    - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
     - JavaScript/Node.js Testing Frameworks: Cypress, Mocha, Puppeteer, Protractor, PhantomJS.
     - Java Testing Frameworks: TestNG, JUnit.
     - Ruby Testing Frameworks: RSpec, Cucumber.
