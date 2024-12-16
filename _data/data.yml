@@ -136,7 +136,7 @@ experience:
         - Recognized for **building** a new testing **framework** with Playwright that led to a 27% increase in test efficiency.
         - Implemented a **CI/CD** pipeline by using **GitHub Actions**, enhancing code quality and deployment frequency(30%).
         - Developed integration between **Playwright** test executions and **Xray** + Jira test plan.
-        - Set up for contract testing with Pact.
+        - Set up contract testing with Pact, leveraging VS Code for streamlined development.
 
     - company: Socure - [Identity Verification & Fraud Prevention]
       link:
