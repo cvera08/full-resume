@@ -40,11 +40,12 @@ evaluation:
     <br>
     Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).  
     As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and
-    Native). For most projects, I have used Jira, Git, GitHub Actions, Jenkins, Playwright, Cypress and JavaScript (or Selenium and Java) but I do
+    Native). For most projects, I have used Jira, Git, GitHub Actions, Jenkins, Playwright, Cypress and JavaScript (or Selenium and Java), but I do
     have experience in some other programming languages as well (like TypeScript, Ruby, Node.js, Python, etc).  
     <br>
     Worked for companies like Ernst & Young, PricewaterhouseCoopers, Renault and Nissan, among others.  
-    Some of my professional skills are Teamwork, Proactivity and Leadership.    
+    I am also experienced in Agile Methodologies such as Scrum and Kanban, which enhance my ability to adapt quickly and collaborate effectively. Some of my 
+    professional skills include Teamwork, Proactivity, and Leadership.    
 
 
 interest:
@@ -263,7 +264,6 @@ organization:
   title: TOOLS EXPERIENCE
   description: |
     - Project Management: Jira, Confluence, Trello.
-    - Agile Methodologies: Scrum, Kanban.
     - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
     - JavaScript/Node.js Testing Frameworks: Cypress, Mocha, Puppeteer, Protractor, PhantomJS.
