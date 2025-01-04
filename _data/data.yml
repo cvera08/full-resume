@@ -264,9 +264,9 @@ organization:
   title: TOOLS EXPERIENCE
   description: |
     - Project Management: Jira, Confluence, Trello.
-    - TestCases Tool: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
+    - Test Case Management Tools: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
-    - JavaScript/Node.js Testing Frameworks: Cypress, Mocha, Puppeteer, Protractor, PhantomJS.
+    - JavaScript Testing Frameworks: Cypress, Mocha, Jest, Protractor, PhantomJS.
     - Java Testing Frameworks: TestNG, JUnit.
     - Ruby Testing Frameworks: RSpec, Cucumber.
     - Cross-platform Frameworks: Playwright, Selenium.
@@ -281,7 +281,7 @@ organization:
     - Test Report Tool: Monocart Reporter, TestNG, ExtentReports, Log4j, Cucumber Extent Report, Allure.
     - Environment & Configuration Management: Dotenv, ARM Templates.
     - DevTools: Console, Elements, Sources, Network.
-    - Unit Testing: npm, Node.js, Jasmine.
+    - Unit Testing: Node.js, Jasmine.
     - Performance Testing: JMeter.
     - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
     - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, Access, DB2.
