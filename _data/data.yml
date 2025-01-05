@@ -264,7 +264,7 @@ organization:
   title: TOOLS EXPERIENCE
   description: |
     - Project Management: Jira, Confluence, Trello.
-    - Test Case Management Tools: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
+    - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
     - JavaScript Testing Frameworks: Cypress, Mocha, Jest, Protractor, PhantomJS.
     - Java Testing Frameworks: TestNG, JUnit.
@@ -287,7 +287,8 @@ organization:
     - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, Access, DB2.
     - DevOps: Jenkins installation and its setup from scratch.
     - Build Automation Tool: Maven, Cocoapods, AWS CLI (Command Line Interface).
-    - Automation Tools / Libraries: Puppeteer, Chai, Docker.
+    - Automation Libraries: Puppeteer, Chai, Docker.
+    - Containerization: Docker, Kubernetes.
     - Front-end: CSS, HTML, JS, Heroku.
     - Back-end: Cheerio, Express, Axios, Nodemon, Rapidapi.
     - Node Package: npm, npx, yarn.
@@ -297,8 +298,8 @@ organization:
     - Cloud Solutions / Multi Platform: AWS, CrossBrowserTesting, Sauce Labs, Perfecto Mobile, Device Farm.
     - Logs: Splunk, Logcat.
     - Desktop Virtualization: VDI, VM, VPN.
-    - VPN: OpenVPN, AnyConnect, WinSCP.
-    - Remote Access Software: TeamViewer, VNC.
+    - VPN Services: OpenVPN, AnyConnect.
+    - Remote Access Software: TeamViewer, VNC, WinSCP.
     - Blockchain: Solidity.
     - Data Mining: Weka.
     - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.  
