@@ -279,6 +279,7 @@ organization:
     - Git: SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
+    - Monitoring and Observability: Grafana, Elasticsearch, Datadog.
     - DevTools: Console, Elements, Sources, Network.
     - Unit Testing: Node.js, Jasmine.
     - Performance Testing: JMeter.
