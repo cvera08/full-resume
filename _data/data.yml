@@ -124,9 +124,9 @@ experience:
       location: Ellicott City, Maryland, U.S.
       description: |
         - Led a project that resulted in an 18% **reduction** in software **bugs**, improving overall product reliability.
-        - Developed a solution to automate regression testing for logged-in users by bypassing **2FA/MFA** codes, unblocking over 400 tests and increasing test efficiency by 70%.
+        - Developed a solution to bypass **2FA/MFA** codes for logged-in users, unblocking over 400 tests and increasing regression test efficiency by 70%.
         - Directed a team of five Automation QAs, achieving a 20% increase in test automation efficiency, and consistently delivering key cybersecurity solutions ahead of schedule.
-        - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over 2 hours to almost one.
+        - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over two hours to almost one.
     - company: Blackpoint - [Cybersecurity]
       link:
       tags: 
