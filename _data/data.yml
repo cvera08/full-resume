@@ -123,9 +123,9 @@ experience:
       role: Automation Technical Lead / Staff Engineer
       location: Ellicott City, Maryland, U.S.
       description: |
-        - Led a project that resulted in an 18% **reduction** in software **bugs**, improving overall product reliability.
+        - Led a project that **reduced** software **bugs** by 18%, significantly improving product reliability while overseeing a team of five Automation QAs to achieve a 20% increase
+         in test automation efficiency and deliver key cybersecurity solutions ahead of schedule.
         - Developed a solution to bypass **2FA/MFA** codes for logged-in users, unblocking over 400 tests and increasing regression test efficiency by 70%.
-        - Directed a team of five Automation QAs, achieving a 20% increase in test automation efficiency, and consistently delivering key cybersecurity solutions ahead of schedule.
         - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over two hours to almost one.
     - company: Blackpoint - [Cybersecurity]
       link:
