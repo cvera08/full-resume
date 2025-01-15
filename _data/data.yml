@@ -127,6 +127,8 @@ experience:
          in test automation efficiency and deliver key cybersecurity solutions ahead of schedule.
         - Developed a solution to bypass **2FA/MFA** codes for logged-in users, unblocking over 400 tests and increasing regression test efficiency by 70%.
         - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over two hours to almost one.
+        - Implemented a **data generation** framework using GraphQL, automating the creation of dynamic test data (accounts, customers, billing models, logos, Stripe integrations, etc), enabling
+         rapid population of environments for testing and reducing setup times by 50%, while integrating seamlessly with Playwright, Apollo, and GitHub Actions to streamline CI/CD workflows.
     - company: Blackpoint - [Cybersecurity]
       link:
       tags: 
