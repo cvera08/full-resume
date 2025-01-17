@@ -272,7 +272,7 @@ organization:
     - Java Testing Frameworks: TestNG, JUnit.
     - Ruby Testing Frameworks: RSpec, Cucumber.
     - Cross-platform Frameworks: Playwright, Selenium.
-    - Backend: Postman, REST-assured, SoapUI, ReadyAPI.
+    - Backend: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Behavior-Driven Development (BDD): Cucumber, JBehave.
     - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
