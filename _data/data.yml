@@ -271,14 +271,14 @@ organization:
     - JavaScript Testing Frameworks: Cypress, Mocha, Jest, Protractor, PhantomJS.
     - Java Testing Frameworks: TestNG, JUnit.
     - Ruby Testing Frameworks: RSpec, Cucumber.
-    - Cross-platform Frameworks: Playwright, Selenium.
+    - Cross-platform Testing Frameworks: Playwright, Selenium.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Behavior-Driven Development (BDD): Cucumber, JBehave.
     - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, GitBash, GitGui, SubGit, Gitg, Gitk, SourceTree.
+    - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, SourceTree, GitBash, GitGui, SubGit, Gitg, Gitk.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
     - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
