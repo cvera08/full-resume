@@ -284,9 +284,9 @@ organization:
     - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
     - DevTools: Console, Elements, Sources, Network.
     - Unit Testing: Node.js, Jasmine.
-    - Performance Testing: JMeter.
+    - Performance Testing: JMeter, k6, LoadRunner.
     - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
-    - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, Access, DB2.
+    - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, DB2.
     - DevOps: Jenkins installation and its setup from scratch. AWS services (EC2, S3, Lambda).
     - Containerization: Docker, Kubernetes.
     - Environment & Configuration Management: Dotenv, ARM Templates.
