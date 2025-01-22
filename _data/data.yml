@@ -301,11 +301,11 @@ organization:
     - Cloud Solutions / Multi Platform: AWS, CrossBrowserTesting, Sauce Labs, Perfecto Mobile, Device Farm.
     - Logs: Splunk, Logcat.
     - Desktop Virtualization: VDI, VM, VPN.
-    - VPN Services: OpenVPN, AnyConnect.
+    - VPN Services: AWS Client VPN, OpenVPN, AnyConnect.
     - Remote Access Software: TeamViewer, VNC, WinSCP.
     - Blockchain: Solidity.
     - Data Mining: Weka.
-    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Office 365.  
+    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Microsoft Office 365.  
 
 
 education:
