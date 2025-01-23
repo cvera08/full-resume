@@ -268,11 +268,12 @@ organization:
     - Project Management: Jira, Confluence, Trello.
     - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
-    - JavaScript Testing Frameworks: Cypress, Mocha, Puppeteer, Jest, Protractor, PhantomJS.
-    - Java Testing Frameworks: TestNG, JUnit.
-    - Ruby Testing Frameworks: RSpec, Cucumber.
-    - Cross-platform Testing Frameworks: Playwright, Selenium.
-    - Assertion Libraries: Chai, Expect.
+    - Testing Frameworks: 
+      - JavaScript: Cypress, Mocha, Puppeteer, Jest, Protractor, PhantomJS.
+      - Java: TestNG, JUnit.
+      - Ruby: RSpec, Cucumber.
+      - Cross-platform: Playwright, Selenium.
+    - Assertion Libraries: Chai, Expect, Assert.
     - Backend: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Behavior-Driven Development (BDD): Cucumber, JBehave.
