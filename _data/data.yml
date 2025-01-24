@@ -280,11 +280,11 @@ organization:
     - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, SourceTree, GitBash, GitGui, SubGit, Gitg, Gitk.
+    - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, SourceTree, GitBash, GitGui, Gitg, Gitk.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
     - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
-    - DevTools: Console, Elements, Sources, Network.
+    - Web Debugging: Chrome DevTools (Console, Elements, Sources, Network, Application).
     - Unit Testing: Node.js, Jasmine.
     - Performance Testing: JMeter, k6, LoadRunner.
     - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
@@ -306,7 +306,7 @@ organization:
     - Remote Access Software: TeamViewer, VNC, WinSCP.
     - Blockchain: Solidity.
     - Data Mining: Weka.
-    - Communications: G Suite, Slack, Microsoft Teams, Zoom, Skype, Microsoft Office 365.  
+    - Communications: Slack, Microsoft Teams, Zoom, Google Workspace, Microsoft Office 365, Skype.  
 
 
 education:
