@@ -288,7 +288,7 @@ organization:
     - Unit Testing: Node.js, Jasmine.
     - Performance Testing: JMeter, k6, LoadRunner.
     - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
-    - Databases: MySQL, MongoDB, MySQLWorkbench, RoboMongo, DB2.
+    - Databases: MySQL (including MySQLWorkbench), MongoDB (including RoboMongo), DB2.
     - DevOps: Jenkins installation and its setup from scratch. AWS services (EC2, S3, Lambda).
     - Containerization: Docker, Kubernetes.
     - Environment & Configuration Management: Dotenv, ARM Templates.
@@ -306,7 +306,7 @@ organization:
     - Remote Access Software: TeamViewer, VNC, WinSCP.
     - Blockchain: Solidity.
     - Data Mining: Weka.
-    - Communications: Slack, Microsoft Teams, Zoom, Google Workspace, Microsoft Office 365, Skype.  
+    - Communications: Slack, Teams, Zoom, Google Workspace, Microsoft Office 365, Skype.  
 
 
 education:
