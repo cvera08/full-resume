@@ -266,7 +266,6 @@ organization:
   title: TOOLS EXPERIENCE
   description: |
     - Project Management: Jira, Confluence, Trello.
-    - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
     - Testing Frameworks: 
       - JavaScript: Cypress, Mocha, Puppeteer, Jest, Protractor, PhantomJS.
@@ -274,14 +273,14 @@ organization:
       - Ruby: RSpec, Cucumber.
       - Cross-platform: Playwright, Selenium.
     - Assertion Libraries: Chai, Expect, Assert.
-    - Backend: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
+    - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Behavior-Driven Development (BDD): Cucumber, JBehave.
-    - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, SourceTree, GitBash, GitGui, Gitg, Gitk.
     - Repositories: GitHub, GitLab, Bitbucket.
+    - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
     - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
     - Web Debugging: Chrome DevTools (Console, Elements, Sources, Network, Application).
@@ -292,10 +291,11 @@ organization:
     - Containerization: Docker, Kubernetes.
     - Environment & Configuration Management: Dotenv, ARM Templates.
     - Build Automation: Maven, Cocoapods, AWS CLI (Command Line Interface).
-    - Front-end: CSS, HTML, JS, Heroku.
-    - Back-end: Cheerio, Express, Axios, Nodemon, Rapidapi.
+    - Front-end Stack: CSS, HTML, JS, Heroku.
+    - Back-end Stack: Cheerio, Express, Axios, Nodemon, Rapidapi.
     - Databases: MySQL (including MySQLWorkbench), MongoDB (including RoboMongo), DB2.
     - Node Package: npm, npx, yarn.
+    - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
     - Operating Systems: Mac OS, Windows, Linux.
     - Mobile Platforms: iPhone, Android.
     - Mobile Automation (Native): Appium, XCUITest, Robotium, TestFlight, Fastlane, XCTest.
