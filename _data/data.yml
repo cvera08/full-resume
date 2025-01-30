@@ -272,16 +272,16 @@ organization:
       - Java: TestNG, JUnit.
       - Ruby: RSpec, Cucumber.
       - Cross-platform: Playwright, Selenium.
-    - Assertion Libraries: Chai, Expect, Assert.
     - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
-    - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
-    - Behavior-Driven Development (BDD): Cucumber, JBehave.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Git: Terminal commands (Bash), GitHub Desktop, SmartGit, SourceTree, GitBash, GitGui, Gitg, Gitk.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
+    - Behavior-Driven Development (BDD): Cucumber, JBehave.
+    - Assertion Libraries: Chai, Expect, Assert.
+    - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
     - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
     - Web Debugging: Chrome DevTools (Console, Elements, Sources, Network, Application).
     - Unit Testing: Node.js, Jasmine.
