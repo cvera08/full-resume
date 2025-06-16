@@ -69,7 +69,7 @@ award:
   description: |
     - Reduced time-to-market by streamlining QA processes and automation coverage.
     - Improved product quality through earlier detection and broader test coverage.
-    - Reduced time spent on repetitive tasks.
+    - Cut time spent on repetitive tasks via robust scripting and smart CI/CD pipelines.
     - Faster feedback loop.
     - Reduced tester burnout.
     - Increased time available for exploratory testing.
