@@ -103,7 +103,7 @@ reference:
   description: |
     - Design, develop and maintain test automation frameworks across web, mobile, and backend platforms — including both greenfield and legacy systems.  
     - Identify high-impact test scenarios based on traceable requirements, and implement them using modern tools like Playwright, GitHub Actions, and JavaScript/TypeScript.  
-    - Promote test automation best practices, tools, standards, and processes.  
+    - Collaborate with developers, QAs, and product managers to ensure test coverage aligns with business requirements and user flows.  
     - Design, develop, implement, and support frameworks for the client test infrastructure and provide automation expertise to the development team.  
     - Document, evaluate, and disseminate test results, and collaborate in troubleshooting issues.  
     - Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).  
