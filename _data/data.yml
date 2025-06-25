@@ -105,7 +105,7 @@ reference:
     - Identify high-impact test scenarios based on traceable requirements, and implement them using modern tools like Playwright, GitHub Actions, and JavaScript/TypeScript.  
     - Collaborate with developers, QAs, and product managers to ensure test coverage aligns with business requirements and user flows.  
     - Establish and promote best practices for scalable, reliable test automation within Agile squads.  
-    - Document, evaluate, and disseminate test results, and collaborate in troubleshooting issues.  
+    - Integrate test automation into CI/CD pipelines to enable faster feedback and earlier defect detection.  
     - Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).  
     - Provide test automation estimates and timelines for assigned projects.  
     - Communicate and report on the status of test automation activities.  
