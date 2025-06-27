@@ -106,7 +106,7 @@ reference:
     - Collaborate with developers, QAs, and product managers to ensure test coverage aligns with business requirements and user flows.  
     - Establish and promote best practices for scalable, reliable test automation within Agile squads.  
     - Integrate test automation into CI/CD pipelines to enable faster feedback and earlier defect detection.  
-    - Enhance, extend, and maintain test automation libraries and test suites (using legacy projects or building automation frameworks from scratch).  
+    - Analyze test results, investigate failures, and contribute to debugging and root cause analysis.  
     - Provide test automation estimates and timelines for assigned projects.  
     - Communicate and report on the status of test automation activities.  
     - Contribute to performance and scalability automation testing through coding best practices.  
