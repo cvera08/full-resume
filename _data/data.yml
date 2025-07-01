@@ -107,7 +107,7 @@ reference:
     - Establish and promote best practices for scalable, reliable test automation within Agile squads.  
     - Integrate test automation into CI/CD pipelines to enable faster feedback and earlier defect detection.  
     - Analyze test results, investigate failures, and contribute to debugging and root cause analysis.  
-    - Provide test automation estimates and timelines for assigned projects.  
+    - Create and manage reusable datasets and test environments to support reliable and repeatable testing..  
     - Communicate and report on the status of test automation activities.  
     - Contribute to performance and scalability automation testing through coding best practices.  
     - Create and maintain data sets to be used in test automation activities.  
