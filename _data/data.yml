@@ -101,7 +101,7 @@ reference:
   order: 6
   title: MAIN RESPONSIBILITIES
   description: |
-    - Design, develop and maintain test automation frameworks across web, mobile, and backend platforms — including both greenfield and legacy systems.  
+    - Design, develop and maintain test automation frameworks across web, mobile, and backend platforms, covering both greenfield (from scratch) and legacy systems.  
     - Identify high-impact test scenarios based on traceable requirements, and implement them using modern tools like Playwright, GitHub Actions, and JavaScript/TypeScript.  
     - Collaborate with developers, QAs, and product managers to ensure test coverage aligns with business requirements and user flows.  
     - Establish and promote best practices for scalable, reliable test automation within Agile squads.  
