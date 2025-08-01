@@ -267,6 +267,7 @@ organization:
     - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
+    - Artificial Intelligence: GitHub Copilot, OpenAI APIs, ChatGPT (prompting, code review, doc generation), LLM testing.
     - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
