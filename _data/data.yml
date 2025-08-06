@@ -309,6 +309,13 @@ education:
   description: |
 
   items:
+    - institution: ChatGPT Prompt Engineering for Developers
+      link: 'https://learn.deeplearning.ai/accomplishments/5a30d47e-9690-42cc-b309-0dcbb73e55cb'
+      date: 05/2025
+      major: 
+      degree: 
+      description: |
+
     - institution: Intro to AI Engineering
       link: 'https://bit.ly/4gTtHOW'
       date: 09/2024
