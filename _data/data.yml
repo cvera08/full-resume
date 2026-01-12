@@ -277,6 +277,7 @@ organization:
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
     - Artificial Intelligence: GitHub Copilot, OpenAI APIs, ChatGPT (prompting, code review, doc generation), LLM testing.
     - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
+    - Terminals & Development Environment: Warp, Git CLI (Bash), Zsh.
     - Repositories: GitHub, GitLab, Bitbucket.
     - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
     - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
