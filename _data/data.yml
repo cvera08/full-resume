@@ -117,14 +117,8 @@ experience:
       description: |
         - Designed and implemented a **production-grade end-to-end QA automation framework** for Five Below's eCommerce platform, owning architecture, tooling, and test strategy for the My Account domain.
         - Acted as the **sole QA Automation owner**, defining standards and enabling reliable releases in a large-scale retail platform.
-        - Built a **Playwright + TypeScript framework** from scratch using a maintainable Page Object Model and semantic selectors.
-        - Automated complex **OIDC authentication flows** (Strivacity), including session persistence and environment-specific storage states.
-        - Implemented **multi-environment execution** (staging-ct, dev-ct, legacy staging, localhost) with isolated sessions to prevent token contamination.
         - Integrated automation into **GitHub Actions CI/CD**, enabling fast, on-demand executions without blocking PR workflows.
         - Reduced full regression execution time from ~1 hour to under 3 minutes.
-        - Established continuous regression coverage for 6+ **critical production issues**, ensuring long-term stability after fixes.
-        - Collaborated closely with Front-End engineers, reviewing PRs and contributing quality-driven feedback in a large monorepo.
-        - Enabled confident deployments across **multiple browsers and mobile-responsive scenarios**, improving overall product reliability.
     - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
