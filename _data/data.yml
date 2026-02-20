@@ -110,6 +110,15 @@ experience:
   description: |
 
   items:
+    - company: Self-employed
+      date: Oct 2023 - Present
+      role: AI-Driven Testing & LLM Evaluation (Personal R&D)
+      location: Remote
+      description: |
+        - Researching and developing test strategies for LLMs, **AI** agents, and generative model outputs using Python, LangChain, OpenAI API, and **Pytest**.
+        - Exploring LLM evaluation techniques, prompt reliability, and automated validation workflows for intelligent systems.
+        - Implementing **CI/CD pipelines** adapted to **AI testing** environments, enabling efficient validation of AI-powered solutions.
+        - Publishing key learnings, experiments, and mini-projects as part of my #𝘈𝘐𝘛𝘦𝘴𝘵𝘪𝘯𝘨𝘑𝘰𝘶𝘳𝘯𝘦𝘺
     - company: Five Below - [eCommerce/Retail]
       date: Jan 2025 - Present
       role: Senior QA Automation Engineer (Framework & Architecture)
