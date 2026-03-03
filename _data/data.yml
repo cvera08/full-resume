@@ -342,7 +342,6 @@ education:
       major: 
       degree: 
       description: |
-        Microsoft Learn - Skills: Artificial Intelligence (AI), GitHub Copilot.
 
     - institution: Physical Security
       link: 'https://learn.caniphish.com/Platform/Dashboard'
@@ -350,7 +349,6 @@ education:
       major: 
       degree: 
       description: |
-        CanIPhish - Skills: Security Testing, Cybersecurity.
 
     - institution: Secure Coding – OWASP Top 10 for LLM Applications
       link: 'https://www.secureflag.com/b?3979f83d-5ec8-4abd-a98c-7c3708958d62'
@@ -358,7 +356,6 @@ education:
       major: 
       degree: 
       description: |
-        SecureFlag - Skills: Cybersecurity, Artificial Intelligence (AI).
 
     - institution: ChatGPT Prompt Engineering for Developers
       link: 'https://learn.deeplearning.ai/accomplishments/5a30d47e-9690-42cc-b309-0dcbb73e55cb'
