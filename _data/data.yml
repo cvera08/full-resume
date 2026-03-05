@@ -1,6 +1,6 @@
 basic:
   name: Carlos Vera                      # name
-  title: QA Automation           # job title
+  title: QA Automation Architect | AI-Driven Testing           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -24,6 +24,9 @@ profile:
   order: 1
   title: PROFESSIONAL SUMMARY
   description: |
+    Playwright • TypeScript • LLM Evaluation • CI/CD Automation  
+    Remote Contractor — US Timezone Overlap  
+    <br>
     Senior **QA** Engineer with 16+ years of experience helping teams deliver faster and safer software.  
     <br>
     Combines deep **automation** expertise with AI-assisted testing techniques to enhance QA workflows and validate intelligent systems.      
