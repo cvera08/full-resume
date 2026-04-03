@@ -50,6 +50,8 @@ evaluation:
     I thrive in Agile environments, adapting quickly to shifting priorities and contributing as a proactive and collaborative team player.    
     <br>
     I’m currently focused on AI-powered testing and intelligent automation strategies, bridging the gap between traditional QA and modern AI workflows.  
+    <br>
+    I also apply **Cursor + Codex** in day-to-day engineering workflows to speed up test design, refactoring, debugging, and technical documentation while keeping quality gates and review standards high.  
 
 interest:
   show: true
@@ -297,7 +299,8 @@ organization:
     - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - Artificial Intelligence & AI-Assisted QA: ChatGPT (OpenAI), Claude, Gemini, DeepSeek, GitHub Copilot, OpenAI APIs, AI-assisted test generation, prompt engineering, LLM evaluation.
+    - Artificial Intelligence & AI-Assisted QA: ChatGPT (OpenAI), Claude, Gemini, DeepSeek, Codex, GitHub Copilot, OpenAI APIs, AI-assisted test generation, prompt engineering, LLM evaluation.
+    - AI Coding Agents & IDE Productivity: Cursor (Agent/Ask workflows), context-driven code assistance, repo-aware refactoring, and accelerated debugging/documentation loops.
     - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
     - Terminals & Development Environment: Warp, Git CLI (Bash), Zsh.
     - Repositories: GitHub, GitLab, Bitbucket.
