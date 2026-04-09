@@ -51,7 +51,7 @@ evaluation:
     <br>
     I’m currently focused on AI-powered testing and intelligent automation strategies, bridging the gap between traditional QA and modern AI workflows.  
     <br>
-    I also apply **Cursor + Codex** in day-to-day engineering workflows to speed up test design, refactoring, debugging, and technical documentation while keeping quality gates and review standards high.  
+    I also apply **GitHub Copilot + Claude** in day-to-day engineering workflows to speed up test design, refactoring, debugging, and technical documentation while keeping quality gates and review standards high.  
 
 interest:
   show: true
@@ -134,6 +134,7 @@ experience:
         - Acted as the **sole QA Automation owner**, defining standards and enabling reliable releases in a large-scale retail platform.
         - Integrated automation into **GitHub Actions CI/CD**, enabling fast, on-demand executions without blocking PR workflows.
         - Reduced full regression execution time from ~1 hour to under 3 minutes.
+        - Leveraged **Cursor + Codex** to accelerate framework refactoring, test design quality, and debugging workflows while maintaining strong review standards.
     - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
@@ -299,8 +300,7 @@ organization:
     - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - Artificial Intelligence & AI-Assisted QA: ChatGPT (OpenAI), Claude, Gemini, DeepSeek, Codex, GitHub Copilot, OpenAI APIs, AI-assisted test generation, prompt engineering, LLM evaluation.
-    - AI Coding Agents & IDE Productivity: Cursor (Agent/Ask workflows), context-driven code assistance, repo-aware refactoring, and accelerated debugging/documentation loops.
+    - Artificial Intelligence & AI-Assisted QA: Claude, GitHub Copilot, Cursor, Codex, ChatGPT (OpenAI), Gemini, DeepSeek, OpenAI APIs, AI-assisted test generation, prompt engineering, LLM evaluation.
     - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
     - Terminals & Development Environment: Warp, Git CLI (Bash), Zsh.
     - Repositories: GitHub, GitLab, Bitbucket.
