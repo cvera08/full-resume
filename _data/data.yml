@@ -125,16 +125,16 @@ experience:
         - Exploring LLM evaluation techniques, prompt reliability, and automated validation workflows for intelligent systems.
         - Implementing **CI/CD pipelines** adapted to **AI testing** environments, enabling efficient validation of AI-powered solutions.
         - Publishing key learnings, experiments, and mini-projects as part of my #𝘈𝘐𝘛𝘦𝘴𝘵𝘪𝘯𝘨𝘑𝘰𝘶𝘳𝘯𝘦𝘺
-    - company: Five Below - [eCommerce/Retail]
+    - company: SmartEquip - [Equipment Lifecycle & Procurement Platform]
       date: Jan 2025 - Present
-      role: Senior QA Automation Engineer (Framework & Architecture)
-      location: Columbus, Ohio, United States
+      role: Senior QA Automation Engineer | AI-Augmented Quality Engineering
+      location: Norwalk, Connecticut, U.S.
       description: |
-        - Designed and implemented a **production-grade end-to-end QA automation framework** for Five Below's eCommerce platform, owning architecture, tooling, and test strategy for the My Account domain.
-        - Acted as the **sole QA Automation owner**, defining standards and enabling reliable releases in a large-scale retail platform.
-        - Integrated automation into **GitHub Actions CI/CD**, enabling fast, on-demand executions without blocking PR workflows.
-        - Reduced full regression execution time from ~1 hour to under 3 minutes.
-        - Leveraged **Cursor + Codex** to accelerate framework refactoring, test design quality, and debugging workflows while maintaining strong review standards.
+        - Own automation strategy, framework architecture, and test coverage across multiple procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
+        - Design and maintain scalable end-to-end automation solutions integrated into CI/CD pipelines, supporting reliable and continuous software delivery.
+        - Partner with QA, Product, and Engineering teams to transform business-critical regression suites into maintainable automated validation assets.
+        - Leverage AI-assisted development workflows using GitHub Copilot, Claude, MCP-enabled tooling, and Playwright CLI to accelerate implementation, debugging, and framework evolution.
+        - Contribute to emerging Agentic SDLC initiatives by defining quality validation approaches for AI-generated software artifacts, autonomous development workflows, and human-in-the-loop review processes.
     - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
