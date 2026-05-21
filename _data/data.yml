@@ -130,11 +130,11 @@ experience:
       role: Senior QA Automation Engineer | AI-Augmented Quality Engineering
       location: Norwalk, Connecticut, U.S.
       description: |
-        - Own automation strategy, framework architecture, and test coverage across multiple procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
-        - Design and maintain scalable end-to-end automation solutions integrated into CI/CD pipelines, supporting reliable and continuous software delivery.
-        - Partner with QA, Product, and Engineering teams to transform business-critical regression suites into maintainable automated validation assets.
-        - Leverage AI-assisted development workflows using GitHub Copilot, Claude, MCP-enabled tooling, and Playwright CLI to accelerate implementation, debugging, and framework evolution.
-        - Contribute to emerging Agentic SDLC initiatives by defining quality validation approaches for AI-generated software artifacts, autonomous development workflows, and human-in-the-loop review processes.
+        - Own **automation strategy, framework architecture, and test coverage** across multiple procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
+        - Design and maintain **scalable end-to-end automation solutions** integrated into CI/CD pipelines, supporting reliable and continuous software delivery.
+        - Partner with QA, Product, and Engineering teams to transform **business-critical regression suites** into maintainable automated validation assets.
+        - Leverage **AI-assisted development workflows** using GitHub Copilot, Claude, MCP-enabled tooling, and Playwright CLI to accelerate implementation, debugging, and framework evolution.
+        - Contribute to emerging **Agentic SDLC initiatives** by defining quality validation approaches for AI-generated software artifacts, autonomous development workflows, and human-in-the-loop review processes.
     - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
