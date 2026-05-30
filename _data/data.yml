@@ -300,7 +300,7 @@ organization:
     - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
     - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
       - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - AI-Assisted QA: ChatGPT (OpenAI), Claude, Gemini, DeepSeek, Codex, GitHub Copilot, Cursor, Manus, OpenAI APIs.
+    - AI-Assisted QA: GitHub Copilot, Claude, Codex, Cursor, Manus, Gemini, DeepSeek, ChatGPT & OpenAI APIs.
       - Leveraged in testing workflows (test generation, prompt engineering, LLM evaluation, and failure analysis).
     - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
     - Terminals & Development Environment: Warp, Git CLI (Bash), Zsh.
