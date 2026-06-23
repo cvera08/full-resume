@@ -39,20 +39,20 @@ evaluation:
   order: 2
   title: About Me
   description: |
-    I’m a QA **Automation** Engineer specialized in Web, Mobile, and Backend testing. With a background as a **Systems Engineer**, ISTQB-certified tester, and 
-    advanced English proficiency (IELTS certified), I bring a hands-on, engineering-driven approach to improving software quality through smart automation.  
-    <br>
-    Throughout my career, I’ve worked across Manual, Hybrid, and Automation QA, contributing to the quality of 
-    modern web platforms as well as native (iOS/Android) and responsive mobile apps. I work extensively with Playwright, 
-    GitHub Actions, JavaScript/TypeScript, and Python.  
-    <br>
-    I’ve led testing initiatives in large-scale projects in diverse industries, including work 
-    with EY, PwC, Renault, and Nissan.   
-    I thrive in Agile environments, adapting quickly to shifting priorities and contributing as a proactive and collaborative team player.    
-    <br>
-    I’m currently focused on AI-powered testing and intelligent automation, shifting traditional QA toward AI-augmented workflows. 
-    I leverage AI-assisted development tools (such as GitHub Copilot and Claude) to accelerate test design, refactoring, debugging, 
-    and documentation—while maintaining robust quality standards and engineering best practices.  
+    I've spent 16 years finding what breaks. Now I engineer quality into systems that fail in new ways: AI-powered products.
+
+    I built test automation that shipped real software across web, mobile, and backend. Then I moved to the front line of modern QA, owning quality for products that embed LLMs and agents, where outputs hallucinate, drift, and behave probabilistically.
+
+    I'm an **AI Quality Engineer** & QA Automation Architect. I design the test and evaluation frameworks that let teams ship AI features with confidence, and I wire them into CI/CD so quality is continuous, not a one-off audit.
+
+    **What I do:**
+    Build automated test and evaluation pipelines for AI-powered products using Playwright/TypeScript and Python, integrated into CI/CD (GitHub Actions). **LLM and agent evaluation**: reference-based and reference-free methods, **LLM-as-a-judge**, RAG evaluation, adversarial testing and red-teaming. Production observability and regression tracking for non-deterministic systems (Evidently AI, LangSmith, Langfuse).
+
+    **Where I come from:**
+    **Systems Engineer** (UTN) · ISTQB-certified · Test automation architecture · Past clients include EY, PwC, and Renault-Nissan.
+
+    **What I'm building:**
+    #AITestingJourney — a public R&D log turning the eval techniques above into things that actually run in a pipeline.
 
 interest:
   show: true
