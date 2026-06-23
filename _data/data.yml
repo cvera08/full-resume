@@ -40,17 +40,17 @@ evaluation:
   title: About Me
   description: |
     I've spent 16 years finding what breaks. Now I engineer quality into systems that fail in new ways: AI-powered products.
-
+    <br>
     I built test automation that shipped real software across web, mobile, and backend. Then I moved to the front line of modern QA, owning quality for products that embed LLMs and agents, where outputs hallucinate, drift, and behave probabilistically.
-
+    <br>
     I'm an **AI Quality Engineer** & QA Automation Architect. I design the test and evaluation frameworks that let teams ship AI features with confidence, and I wire them into CI/CD so quality is continuous, not a one-off audit.
-
+    <br>
     **What I do:**
     Build automated test and evaluation pipelines for AI-powered products using Playwright/TypeScript and Python, integrated into CI/CD (GitHub Actions). **LLM and agent evaluation**: reference-based and reference-free methods, **LLM-as-a-judge**, RAG evaluation, adversarial testing and red-teaming. Production observability and regression tracking for non-deterministic systems (Evidently AI, LangSmith, Langfuse).
-
+    <br>
     **Where I come from:**
     **Systems Engineer** (UTN) · ISTQB-certified · Test automation architecture · Past clients include EY, PwC, and Renault-Nissan.
-
+    <br>
     **What I'm building:**
     #AITestingJourney — a public R&D log turning the eval techniques above into things that actually run in a pipeline.
 
