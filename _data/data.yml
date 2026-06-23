@@ -24,15 +24,15 @@ profile:
   order: 1
   title: PROFESSIONAL SUMMARY
   description: |
-    Playwright · TypeScript · Python · CI/CD with GitHub Actions
-    LLM & Agent Evaluation · AI Observability · Test Automation Architecture
-    Remote Contractor (US Timezones)
+    Playwright · TypeScript · Python · CI/CD with GitHub Actions  
+    LLM & Agent Evaluation · AI Observability · Test Automation Architecture  
+    Remote Contractor (US Timezones)  
     <br>
-    AI Quality Engineer & QA Automation Architect with 16+ years of experience building test and evaluation frameworks that ship reliable software — including AI-powered products.
+    **AI Quality Engineer & QA Automation Architect** with 16+ years of experience building test and evaluation frameworks that ship reliable software — including AI-powered products.
     <br>
-    Designs and implements automated test and evaluation pipelines using Playwright, TypeScript, and Python, integrated into CI/CD (GitHub Actions). Applies LLM evaluation techniques including reference-based and reference-free methods, LLM-as-a-judge, RAG evaluation, and adversarial testing to validate non-deterministic AI systems in production.
+    Designs and implements automated test and evaluation pipelines using **Playwright, TypeScript, and Python**, integrated into CI/CD (GitHub Actions). Applies LLM evaluation techniques including reference-based and reference-free methods, **LLM-as-a-judge**, **RAG evaluation**, and **adversarial testing** to validate non-deterministic AI systems in production.
     <br>
-    Known for translating quality risk into engineering solutions: scalable frameworks, observable pipelines, and actionable metrics across web, mobile, backend, and AI-powered platforms.
+    Known for translating quality risk into engineering solutions: **scalable frameworks**, **observable pipelines**, and **actionable metrics** across web, mobile, backend, and AI-powered platforms.
 
 evaluation:
   show: true
