@@ -81,15 +81,15 @@ award:
   order: 4
   title: KEY ACHIEVEMENTS
   description: |
-    - Reduced time-to-market by streamlining QA processes and automation coverage.
-    - Improved product quality through earlier detection and broader test coverage.
-    - Cut time spent on repetitive tasks via robust scripting and smart CI/CD pipelines.
-    - Accelerated feedback loops for developers and stakeholders.
-    - Freed up time for exploratory testing and high-value validation.
-    - Increased tester productivity by minimizing manual regression efforts.
-    - Enabled better decision-making with actionable testing metrics.
-    - Reduced team burnout by automating tedious and error-prone test flows.
-    - Focused test runs on critical areas, improving coverage where it mattered most.
+    - Designed and deployed **LLM and agent evaluation pipelines** integrated into CI/CD, enabling continuous quality validation for AI-powered products.
+    - Built test automation frameworks from scratch using **Playwright and TypeScript**, adopted across multiple product teams as the standard automation layer.
+    - Reduced bug rates by **18%** and increased test automation efficiency by **20%** by leading a 5-person QA team through a full framework overhaul.
+    - Cut test execution time by **40%** (from 2+ hours to under one) by parallelizing automation suites across four concurrent runners.
+    - Unblocked **400+ regression tests** by engineering a 2FA/MFA bypass solution for authenticated test flows.
+    - Reduced environment setup time by **50%** through a data generation framework using GraphQL to automate dynamic test data creation.
+    - Increased test efficiency by **27%** by building a new Playwright framework replacing a legacy stack.
+    - Applied **adversarial testing and red-teaming** techniques to validate non-deterministic AI outputs, contributing to production observability for LLM-based systems.
+    - Achieved **23% decrease in post-release defects** at Socure by establishing automated mobile testing on native iOS using XCUITest and real device coverage.
 
 
 skill:
