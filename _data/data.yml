@@ -107,15 +107,12 @@ reference:
   order: 6
   title: MAIN RESPONSIBILITIES
   description: |
-    - Design, develop and maintain test automation frameworks across web, mobile, and backend platforms, covering both greenfield (from scratch) and legacy systems.  
-    - Identify high-impact test scenarios based on traceable requirements, and implement them using modern tools like Playwright, GitHub Actions, and JavaScript/TypeScript.  
-    - Collaborate with developers, QAs, and product managers to ensure test coverage aligns with business requirements and user flows.  
-    - Establish and promote best practices for scalable, reliable test automation within Agile squads.  
-    - Integrate test automation into CI/CD pipelines to enable faster feedback and earlier defect detection.  
-    - Analyze test results, investigate failures, and contribute to debugging and root cause analysis.  
-    - Create and manage reusable datasets and test environments to support reliable and repeatable testing.  
-    - Estimate timelines for automation initiatives and clearly report progress to stakeholders.  
-    - Participate in performance, scalability, and security testing initiatives when needed.    
+    - Design and implement **test and evaluation frameworks** for AI-powered products, covering LLM outputs, agent behavior, and non-deterministic system validation — integrated into CI/CD pipelines from day one.
+    - Define and apply **LLM evaluation strategies**: reference-based and reference-free methods, LLM-as-a-judge, RAG pipeline evaluation, adversarial testing, and production observability with tools like Evidently AI, LangSmith, and Langfuse.
+    - Build and maintain **end-to-end test automation** across web, mobile, and backend platforms using Playwright, TypeScript, Python, and GitHub Actions — covering both greenfield and legacy systems.
+    - Partner with Engineering, Product, and AI teams to align **quality and evaluation coverage** with business requirements, model behavior expectations, and user-facing risk.
+    - Establish **best practices for scalable, observable test automation** within Agile squads, including reusable datasets, environment management, and CI/CD-integrated reporting.
+    - Analyze failures in probabilistic systems, lead **root cause analysis**, and translate findings into actionable improvements across the test and evaluation stack.
 
 experience:
   show: true
