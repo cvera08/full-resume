@@ -97,11 +97,9 @@ skill:
   order: 5
   title: PROFESSIONAL SKILLS
   description: |  
-    - <u>Leadership & Strategic Thinking</u>: Led teams as QA Lead, Automation Lead, and Automation Architect. Skilled in mentoring, delegation, reporting, and 
-    cross-functional coordination. Experienced in aligning QA goals with product and business priorities.  
-    - <u>Collaboration & Communication</u>: Strong communicator across technical and non-technical teams. Known for fostering trust, clarity, and alignment in Agile squads.  
-    - <u>Problem-Solving & Continuous Improvement</u>: Proactive mindset focused on resolving bottlenecks, improving pipelines, and 
-    scaling test architecture. Passionate about learning, adapting, and sharing knowledge across teams.
+    - <u>Leadership & Strategic Thinking</u>: Led QA teams of up to 5 engineers as Automation Lead and Automation Architect. Defines quality strategy for AI-powered products, aligning test and evaluation coverage with engineering and product priorities.
+    - <u>Collaboration & Communication</u>: Effective communicator across engineering, product, and stakeholder teams. Experienced working as the sole QA in cross-functional squads, owning the full quality layer end to end.
+    - <u>Problem-Solving & Continuous Improvement</u>: Systematic approach to diagnosing failures in non-deterministic systems, improving pipelines, and scaling test architecture. Applies the same engineering rigor to AI evaluation as to traditional automation.
 
 
 reference:
