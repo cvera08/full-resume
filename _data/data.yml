@@ -131,14 +131,14 @@ experience:
         - Integrated **AI observability and eval logging** into automated workflows using GitHub Actions, translating experimental findings into reusable test patterns for AI-powered products.
     - company: SmartEquip - [Equipment Lifecycle & Procurement Platform]
       date: Jan 2025 - Present
-      role: Senior QA Automation Engineer | AI-Augmented Quality Engineering
+      role: Senior Quality Engineer | AI-Powered Products & Test Automation
       location: Norwalk, Connecticut, U.S.
       description: |
-        - Own **automation strategy, framework architecture, and test coverage** across multiple procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
-        - Design and maintain **scalable end-to-end automation solutions** integrated into CI/CD pipelines, supporting reliable and continuous software delivery.
-        - Partner with QA, Product, and Engineering teams to transform **business-critical regression suites** into maintainable automated validation assets.
-        - Leverage **AI-assisted development workflows** using GitHub Copilot, Claude, MCP-enabled tooling, and Playwright CLI to accelerate implementation, debugging, and framework evolution.
-        - Contribute to emerging **Agentic SDLC initiatives** by defining quality validation approaches for AI-generated software artifacts, autonomous development workflows, and human-in-the-loop review processes.
+        - Own **automation strategy, framework architecture, and test coverage** across procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
+        - Design and maintain **scalable end-to-end automation solutions** integrated into CI/CD pipelines, supporting reliable and continuous delivery across multiple applications.
+        - Leverage **AI-assisted development workflows** using GitHub Copilot, Claude, and MCP-enabled tooling to accelerate framework evolution, debugging, and quality engineering delivery.
+        - Define **quality validation approaches** for AI-generated software artifacts and autonomous development workflows, including human-in-the-loop review processes within Agentic SDLC initiatives.
+        - Apply **LLM evaluation techniques** and intelligent validation workflows to assess AI-powered product behavior, bridging traditional test automation with emerging quality engineering practices for production AI systems.
     - company: Blackpoint - [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
