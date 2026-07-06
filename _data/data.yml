@@ -144,12 +144,10 @@ experience:
       role: Automation Technical Lead / Staff Engineer
       location: Ellicott City, Maryland, U.S.
       description: |
-        - Led a project **reducing** software **bugs** by 18%, improving product reliability, and managed a team of five Automation QAs to boost test automation
-         efficiency by 20%, delivering cybersecurity solutions ahead of schedule.
+        - Led a project that cut software bugs by 18%, improving overall product reliability across cybersecurity platform releases, and managed a team of five Automation QAs to boost delivery efficiency by 20%.
         - Developed a solution to bypass **2FA/MFA** codes for logged-in users, unblocking over 400 tests and increasing regression test efficiency by 70%.
         - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over two hours to almost one.
-        - Implemented a **data generation** framework using GraphQL, automating the creation of dynamic test data (accounts, customers, billing models, logos, Stripe integrations, etc) and enabling
-         rapid population of environments for testing, reducing setup times by 50%.
+        - Implemented a **data generation** framework using GraphQL, automating the creation of dynamic test data (accounts, customers, billing models, logos, Stripe integrations, etc) and reducing environment setup time by 50%.
     - company: Blackpoint - [Cybersecurity]
       link:
       tags: 
@@ -158,9 +156,9 @@ experience:
       location: Ellicott City, Maryland, U.S.
       description: |
         - Recognized for **building** a new testing **framework** with Playwright that led to a 27% increase in test efficiency.
-        - Implemented a **CI/CD** pipeline by using **GitHub Actions**, enhancing code quality and deployment frequency(30%).
-        - Developed integration between **Playwright** test executions and **Xray** + Jira test plan.
-        - Set up contract testing with Pact, leveraging VS Code for streamlined development.
+        - Implemented a **CI/CD** pipeline using **GitHub Actions**, enhancing code quality and boosting deployment frequency by 30%.
+        - Developed integration between **Playwright** test executions and **Xray** + Jira, enabling full traceability between automated results and test plans.
+        - Set up contract testing with Pact, ensuring reliable API boundaries between services.
 
     - company: Socure - [Identity Verification & Fraud Prevention]
       link:
