@@ -168,7 +168,7 @@ experience:
       location: Florida City, Florida, U.S.
       description: |
         - Automated testing of a biometric face & ID recognition app using Xcode, covering both simulator environments and real devices (iPhone, iPad).
-        - Improved overall product quality, reducing post-release issues by 23% through systematic test coverage across identity verification and fraud prevention workflows.
+        - Improved overall product quality, reducing post-release issues by **23%** through systematic test coverage across identity verification and fraud prevention workflows.
         - Established **Jenkins-based CI pipelines** for automated iOS builds, streamlining test execution and enabling continuous quality validation.
 
     - company: Renault & Nissan - [Automobile Manufacturer]
