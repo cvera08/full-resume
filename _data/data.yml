@@ -167,10 +167,9 @@ experience:
       role: SDET (iOS - Native Mobile)
       location: Florida City, Florida, U.S.
       description: |
-        - Tested the 'face & ID recognition' app using Xcode simulators.
-        - Improved overall product quality, resulting in a 23% decrease in post-release issues.
-        - Linked Xcode IDE with real devices (iPhone, iPad) to automate the **iOS app**.
-        - Established the **Jenkins job for automation** builds enhancing testing processes.
+        - Automated testing of a biometric face & ID recognition app using Xcode, covering both simulator environments and real devices (iPhone, iPad).
+        - Improved overall product quality, reducing post-release issues by 23% through systematic test coverage across identity verification and fraud prevention workflows.
+        - Established **Jenkins-based CI pipelines** for automated iOS builds, streamlining test execution and enabling continuous quality validation.
 
     - company: Renault & Nissan - [Automobile Manufacturer]
       link:
