@@ -192,14 +192,13 @@ experience:
         - Reduced testing time by **68%** by designing and implementing efficient automation processes for Android mobile applications on an IoT platform.
         - Established **automation candidate selection criteria and acceptance frameworks** using Cucumber, bridging manual test suites and automated coverage.
 
-    - company: PwC [Audit & Tax Advisory] 
+    - company: PwC - [Audit & Tax Advisory]
       date: Jan 2013 - May 2014
-      role: Software Engineer in Test (Back-end Web)
+      role: Ssr. Automation Engineer (Back-end Web)
       location: San Francisco, California, U.S.
       description: |
-        - Built a Backend Automation Framework from scratch to support API developments.
-        - Integrated Postman to **CI/CD** using Newman.
-        - Validated User Stories through automation.  
+        - Built a **Backend Automation Framework** from scratch to support API development and validate user stories through automated test coverage.
+        - Integrated Postman with **CI/CD pipelines** using Newman, enabling automated API execution on every build.
 
     - company: EY - [Accounting]  
       date: Dec 2010 - Jan 2013
