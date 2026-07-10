@@ -211,11 +211,10 @@ experience:
     - company: NEPS Solutions - [Software Factory]
       date: Jan 2010 - Feb 2011
       role: Jr. Developer (Front-end Web)
-      location: Cordoba, Cordoba, Argentina
+      location: Cordoba, Argentina
       description: |
-        - Developed the **shopping cart** flow.
-        - Achieved 25% increase in test coverage through implementation of new testing strategies.  
-          
+        - Developed front-end web features including **shopping cart flows** using HTML, CSS, and JavaScript, applying MVC and design patterns in a startup environment as the company's first hire.
+        - Increased **test coverage by 25%** by implementing unit testing strategies with Jasmine, establishing early quality practices from the ground up.
 
 project:
   show: true
