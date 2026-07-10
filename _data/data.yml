@@ -205,9 +205,8 @@ experience:
       role: Tester QA (Front-end Web)
       location: Chicago, Illinois, U.S.
       description: |
-        - Ran **Exploratory Tests**.
-        - Gathered new requirements.
-        - Analyzed results of regression cycles, Fixed outdated automation tests.
+        - Executed **functional and exploratory testing** across front-end web applications, gathering requirements and analyzing regression cycle results to maintain product quality.
+        - Maintained and fixed outdated **Selenium-based automation tests**, marking an early shift from manual toward automated quality practices.
 
     - company: NEPS Solutions - [Software Factory]
       date: Jan 2010 - Feb 2011
