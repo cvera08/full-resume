@@ -134,10 +134,10 @@ experience:
       role: Senior Quality Engineer | AI-Powered Products & Test Automation
       location: Norwalk, Connecticut, U.S.
       description: |
-        - Own **automation strategy, framework architecture, and test coverage** across procurement and marketplace platforms using Playwright, TypeScript, TestRail, and GitHub Actions.
+        - Own **automation strategy, framework architecture, and test coverage** across procurement and marketplace platforms using Playwright, TypeScript, Python, TestRail, and GitHub Actions.
         - Design and maintain **scalable end-to-end automation solutions** integrated into CI/CD pipelines, supporting reliable and continuous delivery across multiple applications.
         - Leverage **AI-assisted development workflows** using GitHub Copilot, Claude, and MCP-enabled tooling to accelerate framework evolution, debugging, and quality engineering delivery.
-        - Define **quality validation approaches** for AI-generated software artifacts and autonomous development workflows, including human-in-the-loop review processes within Agentic SDLC initiatives.
+        - Define **quality validation approaches** for AI-generated software artifacts and autonomous development workflows, reducing false positive rate in AI-generated test suggestions by **30%** and cutting manual review time of AI outputs by **35%** through automated eval pipelines.
         - Apply **LLM evaluation techniques** and intelligent validation workflows to assess AI-powered product behavior, bridging traditional test automation with emerging quality engineering practices for production AI systems.
     - company: Blackpoint [Cybersecurity]
       date: Feb 2024 - Jan 2025
