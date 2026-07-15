@@ -121,7 +121,7 @@ experience:
   description: |
 
   items:
-    - company: Self-employed - [AI Quality Engineering & Research]
+    - company: Self-employed [AI Quality Engineering & Research]
       date: Oct 2023 - Present
       role: Quality Engineering for AI Systems — Personal R&D
       location: Remote
@@ -129,7 +129,7 @@ experience:
         - Built an **evaluation framework for LLM-powered agents** using Python and Evidently AI, covering reference-based evals, LLM-as-a-judge, RAG evaluation, adversarial testing, and agent tracing wired into a CI/CD pipeline.
         - Designed and ran **red-teaming and adversarial test suites** against LLM outputs, validating prompt reliability, hallucination boundaries, and failure modes across generative model pipelines.
         - Integrated **AI observability and eval logging** into automated workflows using GitHub Actions, translating experimental findings into reusable test patterns for AI-powered products.
-    - company: SmartEquip - [Equipment Lifecycle & Procurement Platform]
+    - company: SmartEquip [Equipment Lifecycle & Procurement Platform]
       date: Jan 2025 - Present
       role: Senior Quality Engineer | AI-Powered Products & Test Automation
       location: Norwalk, Connecticut, U.S.
@@ -139,7 +139,7 @@ experience:
         - Leverage **AI-assisted development workflows** using GitHub Copilot, Claude, and MCP-enabled tooling to accelerate framework evolution, debugging, and quality engineering delivery.
         - Define **quality validation approaches** for AI-generated software artifacts and autonomous development workflows, including human-in-the-loop review processes within Agentic SDLC initiatives.
         - Apply **LLM evaluation techniques** and intelligent validation workflows to assess AI-powered product behavior, bridging traditional test automation with emerging quality engineering practices for production AI systems.
-    - company: Blackpoint - [Cybersecurity]
+    - company: Blackpoint [Cybersecurity]
       date: Feb 2024 - Jan 2025
       role: Automation Technical Lead / Staff Engineer
       location: Ellicott City, Maryland, U.S.
@@ -148,7 +148,7 @@ experience:
         - Developed a solution to bypass **2FA/MFA** codes for logged-in users, unblocking over 400 tests and increasing regression test efficiency by 70%.
         - Boosted efficiency by **parallelizing** four automation suites, cutting test execution time by 40%, from over two hours to almost one.
         - Implemented a **data generation** framework using GraphQL, automating the creation of dynamic test data (accounts, customers, billing models, logos, Stripe integrations, etc) and reducing environment setup time by 50%.
-    - company: Blackpoint - [Cybersecurity]
+    - company: Blackpoint [Cybersecurity]
       link:
       tags: 
       date: Apr 2023 - March 2024
@@ -160,7 +160,7 @@ experience:
         - Developed integration between **Playwright** test executions and **Xray** + Jira, enabling full traceability between automated results and test plans.
         - Set up contract testing with Pact, ensuring reliable API boundaries between services.
 
-    - company: Socure - [Identity Verification & Fraud Prevention]
+    - company: Socure [Identity Verification & Fraud Prevention]
       link:
       tags: 
       date: Jul 2019 - May 2023
@@ -171,7 +171,7 @@ experience:
         - Improved overall product quality, reducing post-release issues by **23%** through systematic test coverage across identity verification and fraud prevention workflows.
         - Established **Jenkins-based CI pipelines** for automated iOS builds, streamlining test execution and enabling continuous quality validation.
 
-    - company: Renault & Nissan - [Automobile Manufacturer]
+    - company: Renault & Nissan [Automobile Manufacturer]
       link:
       tags: 
       date: Oct 2015 - Jul 2019
@@ -182,7 +182,7 @@ experience:
         - Managed **QA teams** across manual, hybrid, and automation streams, defining test strategy, tracking performance metrics, and aligning quality coverage with product and engineering goals.
         - Built and structured the internal **QA hiring process**, interviewing candidates and onboarding new team members into automation practices.
 
-    - company: Webee - [IoT / Internet of Things]
+    - company: Webee [IoT / Internet of Things]
       link:
       tags: 
       date: May 2014 - Oct 2015
@@ -192,7 +192,7 @@ experience:
         - Reduced testing time by **68%** by designing and implementing efficient automation processes for Android mobile applications on an IoT platform.
         - Established **automation candidate selection criteria and acceptance frameworks** using Cucumber, bridging manual test suites and automated coverage.
 
-    - company: PwC - [Audit & Tax Advisory]
+    - company: PwC [Audit & Tax Advisory]
       date: Jan 2013 - May 2014
       role: Software Engineer in Test (Back-end Web)
       location: San Francisco, California, U.S.
@@ -200,7 +200,7 @@ experience:
         - Built a **Backend Automation Framework** from scratch to support API development and validate user stories through automated test coverage.
         - Integrated Postman with **CI/CD pipelines** using Newman, enabling automated API execution on every build.
 
-    - company: EY - [Accounting]  
+    - company: EY [Accounting]  
       date: Dec 2010 - Jan 2013
       role: Tester QA (Front-end Web)
       location: Chicago, Illinois, U.S.
@@ -208,7 +208,7 @@ experience:
         - Executed **functional and exploratory testing** across front-end web applications, gathering requirements and analyzing regression cycle results to maintain product quality.
         - Maintained and fixed outdated **Selenium-based automation tests**, marking an early shift from manual toward automated quality practices.
 
-    - company: NEPS Solutions - [Software Factory]
+    - company: NEPS Solutions [Software Factory]
       date: Jan 2010 - Feb 2011
       role: Jr. Developer (Front-end Web)
       location: Cordoba, Argentina
