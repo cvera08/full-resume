@@ -285,51 +285,20 @@ organization:
   order: 9
   title: TOOLS EXPERIENCE
   description: |
-    - Project Management: Jira, Confluence, Trello.
-    - Languages: TypeScript, JavaScript, Java, Ruby, Python, .Net (C#, Visual Basic).
-    - Testing Frameworks: 
-      - JavaScript: Cypress, Mocha, Puppeteer, Jest, Protractor, PhantomJS.
-      - Java: TestNG, JUnit.
-      - Ruby: RSpec, Cucumber.
-      - Cross-platform: Playwright, Selenium.
-    - Back-end Testing: Postman, REST-assured, SoapUI, ReadyAPI, GraphQL.
-    - Continuous Integration: GitHub Actions, Travis CI, TeamCity.
-      - Jenkins: Reporting, Slack and Emails Integration, Plugins, Failed tests Screenshots, Run Tests with mvn.
-    - AI-Assisted QA: GitHub Copilot, Claude, Codex, Cursor, Manus, Gemini, DeepSeek, ChatGPT & OpenAI APIs.
-      - Leveraged in testing workflows (test generation, prompt engineering, LLM evaluation, and failure analysis).
-    - Git: GitHub Desktop, Git CLI (Bash), SmartGit, SourceTree, GitLens (VS Code), Husky (pre-commit hooks).
-    - Terminals & Development Environment: Warp, Git CLI (Bash), Zsh.
-    - Repositories: GitHub, GitLab, Bitbucket.
-    - Test Case Management: TestRail, TestLink, Jira + Plugins (like Zephyr or Xray).
-    - Test Reporting: Monocart Reporter, ExtentReports, Log4j, Cucumber Extent Report, Allure.
-    - Behavior-Driven Development (BDD): Cucumber, JBehave.
-    - Assertion Libraries: Chai, Expect, Assert.
-    - Design Patterns: Page Object, DRY, Chain, SOLID, KISS, Page Factory.
-    - Monitoring and Observability: Prometheus, Grafana, Elasticsearch, Datadog.
-    - Web Debugging: Chrome DevTools (Console, Elements, Sources, Network, Application).
-    - Unit Testing: Node.js, Jasmine.
-    - Performance Testing: JMeter, k6, LoadRunner.
-    - Security & Penetration Testing: OTPAuth, Kali Linux, Wireshark, Metasploit.
-    - DevOps: Jenkins installation and its setup from scratch. AWS services (EC2, S3, Lambda).
-    - Containerization: Docker, Kubernetes.
-    - Environment & Configuration Management: Dotenv, ARM Templates.
-    - Build Automation: Maven, Cocoapods, AWS CLI (Command Line Interface).
-    - Front-end Stack: CSS, HTML, JS, Heroku.
-    - Back-end Stack: Cheerio, Express, Axios, Nodemon, Rapidapi.
-    - Databases: MySQL (including MySQLWorkbench), MongoDB (including RoboMongo), DB2.
-    - Node Package: npm, npx, yarn.
-    - IDEs: Visual Studio Code, IntelliJ, RubyMine, Eclipse, Xcode, Android Studio, PyCharm.
-    - Operating Systems: Mac OS, Windows, Linux.
-    - Mobile Platforms: iPhone, Android.
-    - Mobile Automation (Native): Appium, XCUITest, Robotium, TestFlight, Fastlane, XCTest.
-    - Cloud Solutions / Multi Platform: AWS, CrossBrowserTesting, Sauce Labs, Perfecto Mobile, Device Farm.
-    - Logs: Splunk, Logcat.
-    - Desktop Virtualization: VDI, VM, VPN.
-    - VPN Services: AWS Client VPN, OpenVPN, AnyConnect.
-    - Remote Access Software: TeamViewer, VNC, WinSCP.
-    - Blockchain: Solidity.
-    - Data Mining: Weka.
-    - Communications: Slack, Teams, Zoom, Google Workspace, Microsoft Office 365, Skype.  
+    - **AI & LLM Evaluation**: Evidently AI, LangSmith, Langfuse, Ragas, Arize Phoenix.
+    - **AI-Assisted Development**: GitHub Copilot, Claude, Cursor, Codex, Gemini, ChatGPT & OpenAI APIs.
+      - Leveraged in testing workflows: test generation, prompt engineering, LLM evaluation, and failure analysis.
+    - **Test Automation Frameworks**: Playwright, Selenium, Cypress; TypeScript, JavaScript, Python.
+    - **CI/CD & Observability**: GitHub Actions, Docker, Kubernetes, Prometheus, Grafana, Datadog, Elasticsearch.
+    - **API & Back-end Testing**: Postman, GraphQL, REST-assured, ReadyAPI.
+    - **Test Management & Reporting**: TestRail, Allure, Monocart Reporter, Zephyr, Xray.
+    - **Languages**: TypeScript, JavaScript, Python, Java, Ruby.
+    - **Cloud & Infrastructure**: AWS (EC2, S3, Lambda), GitHub, GitLab, Bitbucket.
+    - **Project Management**: Jira, Confluence, Trello.
+    - **Performance Testing**: k6, JMeter.
+    - **Mobile Automation**: Appium, XCUITest, TestFlight, Fastlane.
+    - **Databases**: MySQL, MongoDB.
+    - **IDEs & Dev Tools**: Visual Studio Code, IntelliJ, PyCharm, Warp, Git CLI (Bash), Zsh.
 
 
 education:
