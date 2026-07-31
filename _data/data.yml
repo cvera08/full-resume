@@ -324,6 +324,14 @@ education:
       description: |
         Evidently AI. Core evaluation concepts: metrics design, hallucination detection, output quality assessment, and systematic LLM testing methodologies.
 
+    - institution: Agent Skills with Anthropic
+      link: 'https://www.deeplearning.ai/courses/agent-skills-with-anthropic'
+      date: 05/2026
+      major:
+      degree:
+      description: |
+        DeepLearning.AI. AI agent design patterns, multi-agent coordination, and tool use with Anthropic's Claude for building production-ready AI systems.
+
     - institution: Accelerate app development by using GitHub Copilot
       link: 'https://learn.microsoft.com/en-us/users/carlosvera-6847/achievements/ypgsb5lr'
       date: 02/2026
