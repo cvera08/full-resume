@@ -308,6 +308,22 @@ education:
   description: |
 
   items:
+    - institution: LLM Evaluation for Builders – Applied Course
+      link: 'https://www.evidentlyai.com/llm-evaluation-course-practice'
+      date: 06/2026
+      major:
+      degree:
+      description: |
+        Evidently AI. Hands-on LLM evaluation: custom LLM judges, RAG evaluation, adversarial testing, and evaluation pipelines integrated into CI/CD workflows.
+
+    - institution: LLM Evaluation Course – Concepts & Methods
+      link: 'https://www.evidentlyai.com/llm-evaluations-course'
+      date: 06/2026
+      major:
+      degree:
+      description: |
+        Evidently AI. Core evaluation concepts: metrics design, hallucination detection, output quality assessment, and systematic LLM testing methodologies.
+
     - institution: Accelerate app development by using GitHub Copilot
       link: 'https://learn.microsoft.com/en-us/users/carlosvera-6847/achievements/ypgsb5lr'
       date: 02/2026
