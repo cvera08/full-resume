@@ -37,7 +37,7 @@ profile:
 evaluation:
   show: true
   order: 2
-  title: About Me
+  title: ABOUT ME
   description: |
     I've spent 16 years finding what breaks. Now I engineer quality into systems that fail in new ways: AI-powered products.
 
@@ -67,7 +67,7 @@ evaluation:
 interest:
   show: true
   order: 3
-  title: Areas of Interest
+  title: AREAS OF INTEREST
   description: |
     I’m interested in engineering roles at the intersection of quality and AI: building **test and evaluation frameworks** for **AI-powered products**, owning quality for systems that embed **LLMs and agents**, and contributing to **production observability and reliability** at scale.
 
@@ -304,7 +304,7 @@ organization:
 education:
   show: true
   order: 10
-  title: Education
+  title: EDUCATION
   description: |
 
   items:
@@ -457,7 +457,7 @@ education:
 language:
   show: true
   order: 11
-  title: Languages
+  title: LANGUAGES
   description: |
 
   items:
@@ -469,7 +469,7 @@ language:
 hobbies:
   show: true
   order: 12
-  title: Hobbies
+  title: HOBBIES
   description: |
 
   items:
