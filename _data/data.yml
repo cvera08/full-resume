@@ -221,63 +221,72 @@ project:
   order: 8
   title: PERSONAL PROJECTS
   description: |
-    **AI Stock Predictions** [OpenAI dev] (Oct 2024-Present)  
-    <br>
-    AI-Enhanced **Trading Suggestions.**  
-    Live Demo - [github.com/assets/stock-predictions-demo](https://github.com/user-attachments/assets/24acedef-0c19-4872-a271-c040c4eff309)  
-    View GitHub Source - [github.com/cvera08/ai-stock-predictions](https://github.com/cvera08/ai-stock-predictions)  
 
-    ---  
-    
-    **Próximo Feriado** [Front-end dev] (Jun 2025-Sep 2025)  
-    <br>
-    Lightweight Next.js app showing Uruguay's **next holiday** and days left.  
-    Live Demo - [proximoferiado.com.uy](https://proximoferiado.com.uy/)  
-    View GitHub Source - [github.com/cvera08/proximo-feriado-uy](https://github.com/cvera08/proximo-feriado-uy)  
+  items:
+    - name: AI Stock Predictions
+      tags: OpenAI dev
+      date: Oct 2024-Present
+      description: |
+        AI-Enhanced **Trading Suggestions.**  
+        Live Demo - github.com/assets/stock-predictions-demo  
+        View GitHub Source - github.com/cvera08/ai-stock-predictions  
 
-    ---  
+    - name: Próximo Feriado
+      tags: Front-end dev
+      date: Jun 2025-Sep 2025
+      description: |
+        Lightweight Next.js app showing Uruguay's **next holiday** and days left.  
+        Live Demo - proximoferiado.com.uy  
+        View GitHub Source - github.com/cvera08/proximo-feriado-uy  
 
-    **Web Based AI Games** [AI dev] (Mar 2024-Nov 2024)  
-    <br>
-    Multi Games by using **Artificial Intelligence.**  
-    Live Demo - [cvera08.github.io/multi-games-artificial-intelligence-js](https://cvera08.github.io/multi-games-artificial-intelligence-js)  
-    View GitHub Source - [github.com/cvera08/multi-games-artificial-intelligence-js](https://github.com/cvera08/multi-games-artificial-intelligence-js)  
+    - name: Web Based AI Games
+      tags: AI dev
+      date: Mar 2024-Nov 2024
+      description: |
+        Multi Games by using **Artificial Intelligence.**  
+        Live Demo - cvera08.github.io/multi-games-artificial-intelligence-js  
+        View GitHub Source - github.com/cvera08/multi-games-artificial-intelligence-js  
 
-    ---  
-    **Carlos Vera's Portfolio** [Front-end dev] (Jul 2023-Dec 2023)  
-    <br>
-    Developed my own **portfolio** as an online summary of my resume/profile.  
-    Live Demo - [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app)  
-    View GitHub Source - [github.com/cvera08/CVeraPortfolio](https://github.com/cvera08/CVeraPortfolio)  
+    - name: Carlos Vera's Portfolio
+      tags: Front-end dev
+      date: Jul 2023-Dec 2023
+      description: |
+        Developed my own **portfolio** as an online summary of my resume/profile.  
+        Live Demo - cvera-portfolio.vercel.app  
+        View GitHub Source - github.com/cvera08/CVeraPortfolio  
 
-    ---  
-    **Blockchain QAAutomation** [Automation Architect] (Jan 2023-Jul 2023)  
-    <br>
-    Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress.  
-    Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts.  
-    Live Demo - [ibb.co/SmartContractCypress](https://i.ibb.co/zmsLx2K/demo-blockchain-automation.png)  
-    View GitHub Source - [github.com/cvera08/blockchain-automation](https://github.com/cvera08/blockchain-automation)  
+    - name: Blockchain QAAutomation
+      tags: Automation Architect
+      date: Jan 2023-Jul 2023
+      description: |
+        Developed **Smart Contract** Test **Automation** by using Solidity, Remix, JavaScript, Cypress.  
+        Deployed, debugged, and tested Ethereum and EVM-compatible smart contracts.  
+        Live Demo - ibb.co/SmartContractCypress  
+        View GitHub Source - github.com/cvera08/blockchain-automation  
 
-    ___  
-    **Chase the Ace** [Front-end dev] (Dec 2022)  
-    <br>
-    Card Game using Front-end tools like HTML, CSS and **JavaScript**.  
-    Live Demo - [chase-the-ace.vercel.app](https://chase-the-ace.vercel.app/)  
-    View GitHub Source - [github.com/cvera08/GameChaseTheAceCardJavaScript](https://github.com/cvera08/GameChaseTheAceCardJavaScript)  
+    - name: Chase the Ace
+      tags: Front-end dev
+      date: Dec 2022
+      description: |
+        Card Game using Front-end tools like HTML, CSS and **JavaScript**.  
+        Live Demo - chase-the-ace.vercel.app  
+        View GitHub Source - github.com/cvera08/GameChaseTheAceCardJavaScript  
 
-    ___  
-    **Climate Change - Climate Crisis** [Back-end dev] (May 2022-Nov 2022)  
-    <br>
-    Generated live URLs related to science and the environment all around the globe by using **REST APIs**.  
-    Live Demo - [climate-change-api-demo.vercel.app](https://climate-change-api-demo.vercel.app)  
-    View GitHub Source - [github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios](https://github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios)  
+    - name: Climate Change - Climate Crisis
+      tags: Back-end dev
+      date: May 2022-Nov 2022
+      description: |
+        Generated live URLs related to science and the environment all around the globe by using **REST APIs**.  
+        Live Demo - climate-change-api-demo.vercel.app  
+        View GitHub Source - github.com/cvera08/ClimateChangeAPIDevelopmentNodeJsExpressAxios  
 
-    ---  
-    **Uruguayan Biller** [Front-end dev] (Jul 2021-May 2022)  
-    <br>
-    Built & Tested the FacturaUY website to support the creation of new **invoices**.  
-    Live Demo - [cvera08.github.io/FactureroUruguayo](https://cvera08.github.io/FactureroUruguayo)  
-    *(only available in the Spanish version since it is focused on the Uruguayan market)*  
+    - name: Uruguayan Biller
+      tags: Front-end dev
+      date: Jul 2021-May 2022
+      description: |
+        Built & Tested the FacturaUY website to support the creation of new **invoices**.  
+        Live Demo - cvera08.github.io/FactureroUruguayo  
+        *(only available in the Spanish version since it is focused on the Uruguayan market)*  
 
 
 organization:
