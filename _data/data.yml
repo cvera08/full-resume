@@ -24,6 +24,8 @@ profile:
   order: 1
   title: PROFESSIONAL SUMMARY
   description: |
+    I've spent 16 years finding what breaks. Now I engineer quality into systems that fail in new ways: AI-powered products.
+
     Playwright · TypeScript · Python · CI/CD with GitHub Actions  
     LLM & Agent Evaluation · AI Observability · Test Automation Architecture  
     Remote Contractor (US Timezones)  
@@ -33,48 +35,8 @@ profile:
     Designs and implements automated test and evaluation pipelines using **Playwright, TypeScript, and Python**, integrated into CI/CD (GitHub Actions). Applies LLM evaluation techniques including reference-based and reference-free methods, **LLM-as-a-judge**, **RAG evaluation**, and **adversarial testing** to validate non-deterministic AI systems in production.
     <br>
     Known for translating quality risk into engineering solutions: **scalable frameworks**, **observable pipelines**, and **actionable metrics** across web, mobile, backend, and AI-powered platforms.
-
-evaluation:
-  show: true
-  order: 2
-  title: ABOUT ME
-  description: |
-    I've spent 16 years finding what breaks. Now I engineer quality into systems that fail in new ways: AI-powered products.
-
     <br>
-
-    I built test automation that shipped real software across web, mobile, and backend. Then I moved to the front line of modern QA, owning quality for products that embed LLMs and agents, where outputs hallucinate, drift, and behave probabilistically.
-
-    <br>
-
-    I'm an **AI Quality Engineer** & QA Automation Architect. I design the test and evaluation frameworks that let teams ship AI features with confidence, and I wire them into CI/CD so quality is continuous, not a one-off audit.
-
-    <br>
-
-    **What I do:**
-    Build automated test and evaluation pipelines for AI-powered products using Playwright/TypeScript and Python, integrated into CI/CD (GitHub Actions). **LLM and agent evaluation**: reference-based and reference-free methods, **LLM-as-a-judge**, RAG evaluation, adversarial testing and red-teaming. Production observability and regression tracking for non-deterministic systems (Evidently AI, LangSmith, Langfuse).
-
-    <br>
-
-    **Where I come from:**
-    **Systems Engineer** (UTN) · ISTQB-certified · Test automation architecture · Past clients include EY, PwC, and Renault-Nissan.
-
-    <br>
-
-    **What I'm building:**
-    #AITestingJourney — a public R&D log turning the eval techniques above into things that actually run in a pipeline.
-
-interest:
-  show: true
-  order: 3
-  title: AREAS OF INTEREST
-  description: |
-    I’m interested in engineering roles at the intersection of quality and AI: building **test and evaluation frameworks** for **AI-powered products**, owning quality for systems that embed **LLMs and agents**, and contributing to **production observability and reliability** at scale.
-
-    <br>
-
-    Remote contractor, available for US timezones.
-
+    Building **#AITestingJourney** — a public R&D log of what actually runs in a production eval pipeline.
 
 award:
   show: true
@@ -91,28 +53,6 @@ award:
     - Applied **adversarial testing and red-teaming** techniques to validate non-deterministic AI outputs, contributing to production observability for LLM-based systems.
     - Achieved **23% decrease in post-release defects** at Socure by establishing automated mobile testing on native iOS using XCUITest and real device coverage.
 
-
-skill:
-  show: true
-  order: 5
-  title: PROFESSIONAL SKILLS
-  description: |  
-    - <u>Leadership & Strategic Thinking</u>: Led QA teams of up to 5 engineers as Automation Lead and Automation Architect. Defines quality strategy for AI-powered products, aligning test and evaluation coverage with engineering and product priorities.
-    - <u>Collaboration & Communication</u>: Effective communicator across engineering, product, and stakeholder teams. Experienced working as the sole QA in cross-functional squads, owning the full quality layer end to end.
-    - <u>Problem-Solving & Continuous Improvement</u>: Systematic approach to diagnosing failures in non-deterministic systems, improving pipelines, and scaling test architecture. Applies the same engineering rigor to AI evaluation as to traditional automation.
-
-
-reference:
-  show: true
-  order: 6
-  title: MAIN RESPONSIBILITIES
-  description: |
-    - Design and implement **test and evaluation frameworks** for AI-powered products, covering LLM outputs, agent behavior, and non-deterministic system validation — integrated into CI/CD pipelines from day one.
-    - Define and apply **LLM evaluation strategies**: reference-based and reference-free methods, LLM-as-a-judge, RAG pipeline evaluation, adversarial testing, and production observability with tools like Evidently AI, LangSmith, and Langfuse.
-    - Build and maintain **end-to-end test automation** across web, mobile, and backend platforms using Playwright, TypeScript, Python, and GitHub Actions — covering both greenfield and legacy systems.
-    - Partner with Engineering, Product, and AI teams to align **quality and evaluation coverage** with business requirements, model behavior expectations, and user-facing risk.
-    - Establish **best practices for scalable, observable test automation** within Agile squads, including reusable datasets, environment management, and CI/CD-integrated reporting.
-    - Analyze failures in probabilistic systems, lead **root cause analysis**, and translate findings into actionable improvements across the test and evaluation stack.
 
 experience:
   show: true
