@@ -35,7 +35,9 @@ profile:
     Designs and implements automated test and evaluation pipelines using **Playwright, TypeScript, and Python**, integrated into CI/CD (GitHub Actions). Applies LLM evaluation techniques including reference-based and reference-free methods, **LLM-as-a-judge**, **RAG evaluation**, and **adversarial testing** to validate non-deterministic AI systems in production.
     <br>
     Known for translating quality risk into engineering solutions: **scalable frameworks**, **observable pipelines**, and **actionable metrics** across web, mobile, backend, and AI-powered platforms.
+
     <br>
+
     Building **#AITestingJourney** — a public R&D log of what actually runs in a production eval pipeline.
 
 award:
