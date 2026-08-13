@@ -250,13 +250,6 @@ education:
       degree: 
       description: |
 
-    - institution: Physical Security
-      link: 'https://learn.caniphish.com/Platform/Dashboard'
-      date: 12/2025
-      major: 
-      degree: 
-      description: |
-
     - institution: Secure Coding – OWASP Top 10 for LLM Applications
       link: 'https://www.secureflag.com/b?3979f83d-5ec8-4abd-a98c-7c3708958d62'
       date: 08/2025
@@ -292,13 +285,6 @@ education:
       degree: 
       description: |
 
-    - institution: Automating your API tests with REST Assured
-      link: 'https://testautomationu.applitools.com/certificate/?id=10cff908'
-      date: 03/2024
-      major: 
-      degree: 
-      description: |
-
     - institution: Introduction to Generative AI Studio
       link: 'https://simpli-web.app.link/e/RgsFKM9JYGb'
       date: 02/2024
@@ -306,52 +292,12 @@ education:
       degree: 
       description: |
 
-    - institution: Introduction to Artificial Intelligence
-      link: 'https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI5MzIiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NjE0NTI2XzE2OTg2ODA3MDAucG5nIiwidXNlcm5hbWUiOiJDYXJsb3MgVmVyYSJ9'
-      date: 10/2023
-      major: 
-      degree: 
-      description: |
-
-    - institution: JS Promises and Async Programming by Nate Taylor
-      link: 'https://www.pluralsight.com/courses/javascript-promises-async-programming'
-      date: 05/2023
-      major: 
-      degree: 
-      description: |
-        
-    - institution: JavaScript REST APIs by Paul D. Sheriff
-      link: 'https://app.pluralsight.com/achievements/share/da74e682-f769-4027-8dcc-b90303e6dd59'
-      date: 04/2023
-
-    - institution: General Data Protection Regulation
-      link: 'https://www.knowbe4.com'
-      date: 04/2022
-
-    - institution: End-to-end Web Testing with TestCafe
-      link: 'https://www.pluralsight.com/courses/testcafe-end-to-end-web-testing-getting-started'
-      date: 02/2022
-
-    - institution: Building Machine Learning Solutions with Java
-      link: 'https://www.pluralsight.com/paths/building-machine-learning-solutions-with-java'
-      date: 07/2021
-
-    - institution: English - Certified IELTS 
+    - institution: English - Certified IELTS
       link: 'https://www.ielts.org/'
       date: 03/2020
       description: |
         Competent User - Listening, Reading, Writing & Speaking. Effective language command.  
         IDP International English Language Testing System Australia. Candidate: 003239 - Centre: AR630.  
-
-    - institution: Blockchain - Introduction to Hyperledger Fabric for Devs
-      link: 'https://training.linuxfoundation.org/training/hyperledger-fabric-for-developers-lfd272'
-      date: 06/2019
-
-    - institution: Penetration Testing and Ethical hacking Bootcamp
-      link: 'https://www.udemy.com/course/complete-pentester-course/'
-      date: 09/2017
-      description: |
-        Command Injection, XSS, CSRF. Kali Linux, Tor Browser, Wireshark, Metasploit, Vega, OWASP, Wpscan, WebGoat.
 
     - institution: ISTQB Certified Tester - Foundation Level
       link: 'https://www.istqb.org/'
