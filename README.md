@@ -15,8 +15,8 @@
 
 #### Prerequisites
 
-- Ruby version 2.5.0 or higher
-- RubyGems
+- Ruby version 3.0 or higher (managed via [rbenv](https://github.com/rbenv/rbenv) recommended)
+- Bundler
 - GCC (GNU Compiler Collection - required for some Ruby gems)
 - Make
 
@@ -27,23 +27,23 @@ If you don't have these prerequisites installed, you can follow these steps on m
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-2. Install Ruby Version Manager (RVM):
+2. Install rbenv and ruby-build:
 ```bash
-\curl -sSL https://get.rvm.io | bash -s stable
-source ~/.rvm/scripts/rvm
+brew install rbenv ruby-build
 ```
 
-3. Install Ruby through RVM:
+3. Install Ruby through rbenv:
 ```bash
-rvm install 2.7
-rvm use 2.7 --default
+eval "$(rbenv init - zsh)"
+rbenv install 3.2.4
+rbenv local 3.2.4
 ```
 
 ### Local Setup
 
-1. Install Jekyll and Bundler:
+1. Install Bundler:
 ```bash
-gem install jekyll bundler
+gem install bundler
 ```
 
 2. Install dependencies:
