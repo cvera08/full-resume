@@ -12,6 +12,11 @@ sass:
 lang: en
 open: true                  # show or hide your resume
 allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
+description: "AI Quality Engineer & QA Automation Architect — 16+ years in test automation for web and mobile. LLM evaluation, agent testing, and AI observability in CI/CD."
+
+open_graph:
+  enable: true
+  image: /assets/images/profile.png
 
 # Style
 text_direction: ltr         # text direction, 'ltr' or 'rtl'

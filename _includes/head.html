@@ -3,14 +3,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{% if site.open %}{% if site.description %}{{ site.description }}{% else %}{{ site.title }}{% endif %}{% else %}Online Resume{% endif %}">
 
+<meta name="keywords" content="AI Quality Engineer, QA Automation Architect, Playwright, Python, LLM Evaluation, AI Testing, Test Automation, TypeScript, AI Observability, CI/CD">
+<meta name="author" content="Carlos Vera">
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
 {%- if site.open and site.open_graph.enable %}
 <meta property="og:title" content="{{ site.title }}">
 <meta property="og:type" content="profile">
 <meta property="og:image" content="{{ site.url }}{{ site.open_graph.image | relative_url }}">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<meta property="og:locale" content="en_US">
 {%- if site.description %}
 <meta property="og:description" content="{{ site.description }}">
 {%- endif %}
+{%- endif %}
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ site.title }}">
+{%- if site.description %}
+<meta name="twitter:description" content="{{ site.description }}">
 {%- endif %}
 
 {%- if site.open %}
