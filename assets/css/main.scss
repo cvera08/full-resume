@@ -28,6 +28,9 @@ $background-color:  #f5f5f5;
 $wrapper-color:     #ffffff;
 $heart-color:       #fb866a;
 $theme-color:       {{ site.theme_color | default: "#1DA1F2" }};
+// White text on $theme-color falls under WCAG AA contrast (2.82:1) — used only
+// for the PDF download button, where white-on-blue actually needs to be read.
+$button-color:      #0E6FAE;
 
 // Default delimiter
 $contact-delimiter: "{{ site.contact_delimiter | default: "·" }}";
